@@ -1,0 +1,172 @@
+
+/* Colors */
+
+:root {
+    --ucla-blue: #2274a5ff;
+    --ucla-blue-hover: rgb(23, 85, 121);
+    --oxford-blue: #191d32ff;
+    --citrine: #dec62bff;
+    --citrine-hover: rgb(150, 132, 17);
+    --ghost-white: #f7f7ffff;
+    --bright-pink: #ED6B86;
+  }
+
+/* General Styles */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--oxford-blue);
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: var(--ucla-blue);
+  }
+
+  p {
+    text-align: center;
+    color: var(--ghost-white);
+    margin: 5px;
+  }
+  
+  .job-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .job-card {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: var(--bright-pink);
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  .job-card .job-details {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-right: 10px;
+  }  
+  
+  .job-card .job-details .job-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+    color: var(--ghost-white)
+  }
+  
+  .job-card .job-details .job-company {
+    font-size: 16px;
+    color: var(--ghost-white);
+    text-align: center;
+  }
+  
+  .job-card .job-details .job-location {
+    font-size: 16px;
+    color: var(--ghost-white);
+    text-align: center;
+  }
+
+  .job-card .job-details .job-address {
+    font-size: 16px;
+    color: var(--ghost-white);
+    text-align: center;
+  }
+
+  .job-card .job-details .job-application-due {
+    font-size: 16px;
+    color: var(--ghost-white);
+    text-align: center;
+  }
+  
+  .job-description {
+    flex: 1;
+    padding: 10px;
+    border-left: 1px solid var(--ghost-white);
+    background-color: var(--bright-pink);
+    width: 70%;
+    min-height: 89%;
+    height: auto;
+  }
+  
+  /* Search Bar Styles */
+  
+  .search-form {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .apply-button {
+    background-color: var(--ucla-blue);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  .apply-button:hover {
+    background-color: var(--ucla-blue-hover);
+  }
+  
+
+  .search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+  }
+  
+  .search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: var(--ucla-blue);
+    color: var(--ghost-white);
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
+
+  .search-button:hover {
+    background-color: var(--ucla-blue-hover);
+  }
+  
+  /* Responsive Styles */
+  
+  @media screen and (max-width: 768px) {
+    .job-card {
+      width: 100%;
+      flex-direction: column;
+    }
+  
+    .job-details {
+      border-right: none;
+      border-bottom: 1px solid #eee;
+    }
+  }
+  

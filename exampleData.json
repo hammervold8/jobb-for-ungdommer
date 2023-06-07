@@ -1,0 +1,81 @@
+{
+    "example": {
+      "content": [
+        {
+          "uuid": "2f5db4cc-c9d4-43c1-aa55-57e295194099",
+          "published": "2019-05-06T12:27:12.29+02:00",
+          "updated": "2019-05-10T12:27:12.29+02:00",
+          "expires": "2019-05-20T00:00:00+02:00",
+          "workLocations": [
+            {
+              "country": "NORGE",
+              "address": "GATEADRESSE 1",
+              "city": "OSLO",
+              "postalCode": "0250",
+              "county": "OSLO",
+              "municipal": "OSLO"
+            }
+          ],
+          "title": "Stillingstittel",
+          "description": "<h1>Overskrift-eksempel</h1>\n<p>Stillingstekst</p>\n",
+          "source": "https://www.sourcelink.no/id",
+          "applicationDue": "20.05.2019",
+          "applicationUrl": "https://application.url/here",
+          "occupationCategories": [
+            {
+              "level1": "Helse og sosial",
+              "level2": "Pyskologer og terapeuter"
+            }
+          ],
+          "link": "https://arbeidsplassen.nav.no/stillinger/stilling/314f2f5db4cc-c9d4-43c1-aa55-57e295194099",
+          "employer": {
+            "name": "Arbeidsgiver",
+            "orgnr": "123456789",
+            "homepage": "https://emp-home-page",
+            "description": "The employer description"
+          }
+        },
+        {
+            "uuid": "2f5db4cc-c9d4-43c1-aa55-57e295194099",
+            "published": "2019-05-06T12:27:12.29+02:00",
+            "updated": "2019-05-10T12:27:12.29+02:00",
+            "expires": "2019-05-20T00:00:00+02:00",
+            "workLocations": [
+              {
+                "country": "NORGE",
+                "address": "GATEADRESSE 2",
+                "city": "TRONDHEIM",
+                "postalCode": "0250",
+                "county": "OSLO",
+                "municipal": "OSLO"
+              }
+            ],
+            "title": "Web developer",
+            "description": "<h1>Overskrift-eksempel</h1>\n<p>Stillingstekst</p>\n",
+            "source": "https://www.sourcelink.no/id",
+            "applicationDue": "20.05.2019",
+            "applicationUrl": "https://application.url/here",
+            "occupationCategories": [
+              {
+                "level1": "Helse og sosial",
+                "level2": "Pyskologer og terapeuter"
+              }
+            ],
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/314f2f5db4cc-c9d4-43c1-aa55-57e295194099",
+            "employer": {
+              "name": "Arbeidsgiver",
+              "orgnr": "123456789",
+              "homepage": "https://emp-home-page",
+              "description": "The employer description"
+            }
+          }
+      ],
+      "totalElements": 5000,
+      "pageNumber": 0,
+      "pageSize": 1,
+      "totalPages": 5000,
+      "first": true,
+      "last": false,
+      "sort": "published:desc"
+    }
+  }
