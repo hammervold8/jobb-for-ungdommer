@@ -1,3 +1,5 @@
+# See the API documentation at https://github.com/navikt/pam-public-feed/
+
 import requests
 import json
 
