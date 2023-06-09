@@ -8,6 +8,7 @@
     --citrine: #dec62bff;
     --citrine-hover: rgb(150, 132, 17);
     --ghost-white: #f7f7ffff;
+    --brighter-pink: rgb(233, 135, 154);
     --bright-pink: #ED6B86;
     --bright-pink-hover: #ea3e60;
   }
@@ -30,7 +31,12 @@ body {
   
   h1 {
     text-align: center;
-    color: var(--ucla-blue);
+    color: var(--ghost-white);
+  }
+
+  h2 {
+    text-align: center;
+    color: var(--ghost-white);
   }
 
   p {
@@ -99,7 +105,7 @@ body {
     flex: 1;
     padding: 10px;
     border-left: 1px solid var(--ghost-white);
-    background-color: var(--bright-pink);
+    background-color: var(--brighter-pink);
     width: 70%;
     min-height: 89%;
     max-height: 200px;

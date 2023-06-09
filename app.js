@@ -57,9 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
           jobDetailsElement.appendChild(jobAddressElement);
           if (job.applicationDue != null) {
             jobDetailsElement.appendChild(jobApplicationDueElement);
-          } else {
-            jobDetailsElement.appendChild("Søknadsfrist: Ikke oppgitt/se annonse");
-          }
+          } 
           jobDetailsElement.appendChild(button);
   
           jobCardElement.appendChild(jobDetailsElement);
