@@ -18,7 +18,8 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: var(--oxford-blue);
     margin: 0;
-    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
   
   .container {
@@ -107,7 +108,7 @@ body {
   }
 
   .job-description:hover {
-    overflow: scroll;
+    max-height: 100%;
     background-color: var(--bright-pink-hover);
   }
   
