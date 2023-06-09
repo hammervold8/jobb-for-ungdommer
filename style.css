@@ -54,12 +54,15 @@ body {
   .job-card {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
     padding: 10px;
     margin-bottom: 10px;
     background-color: var(--bright-pink);
     border-radius: 10px;
     width: 100%;
+    display: inline-flex;
+    overflow: hidden;
+    overflow-x: scroll;
   }
   
   .job-card .job-details {
