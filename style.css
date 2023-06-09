@@ -9,6 +9,7 @@
     --citrine-hover: rgb(150, 132, 17);
     --ghost-white: #f7f7ffff;
     --bright-pink: #ED6B86;
+    --bright-pink-hover: #ea3e60;
   }
 
 /* General Styles */
@@ -100,7 +101,14 @@ body {
     background-color: var(--bright-pink);
     width: 70%;
     min-height: 89%;
+    max-height: 200px;
     height: auto;
+    overflow: hidden;
+  }
+
+  .job-description:hover {
+    overflow: scroll;
+    background-color: var(--bright-pink-hover);
   }
   
   /* Search Bar Styles */
