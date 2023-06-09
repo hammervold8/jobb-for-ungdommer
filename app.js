@@ -55,7 +55,9 @@ document.addEventListener("DOMContentLoaded", () => {
           jobDetailsElement.appendChild(jobCompanyElement);
           jobDetailsElement.appendChild(jobLocationElement);
           jobDetailsElement.appendChild(jobAddressElement);
-          jobDetailsElement.appendChild(jobApplicationDueElement);
+          if (job.applicationDue != null) {
+            jobDetailsElement.appendChild(jobApplicationDueElement);
+          }
           jobDetailsElement.appendChild(button);
   
           jobCardElement.appendChild(jobDetailsElement);
@@ -109,3 +111,44 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     })
   });
+
+  // async function fetchData() {
+  //   const api_key = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwdWJsaWMudG9rZW4udjFAbmF2Lm5vIiwiYXVkIjoiZmVlZC1hcGktdjEiLCJpc3MiOiJuYXYubm8iLCJpYXQiOjE1NTc0NzM0MjJ9.jNGlLUF9HxoHo5JrQNMkweLj_91bgk97ZebLdfx3_UQ"
+  //   const apiEndpoint = 'https://api.nav.no/jobbfeed/api/v1/ads';
+  
+  //   const params = new URLSearchParams({
+  //     countryCode: 'NO',
+  //     language: 'nb',
+  //     // Add more parameters as needed
+  //   });
+  
+  //   try {
+  //     const response = await fetch(`${apiEndpoint}?${params.toString()}`, {
+  //       headers: {
+  //         'Authorization': api_key,
+  //       },
+  //     });
+  
+  //     if (response.ok) {
+  //       const jsonData = await response.json();
+  //       return jsonData;
+  //     } else {
+  //       throw new Error(`Error: ${response.status}`);
+  //     }
+  //   } catch (error) {
+  //     throw new Error(`Error: ${error}`);
+  //   }
+  // }
+  
+  // // Example usage:
+  // async function fetchDataAndProcess() {
+  //   try {
+  //     const data = await fetchData();
+  //     // Process the data or store it in the desired variable
+  //     console.log('Data:', data);
+  //   } catch (error) {
+  //     console.error(error);
+  //   }
+  // }
+  
+  // fetchDataAndProcess();  
