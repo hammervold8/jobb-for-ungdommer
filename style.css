@@ -2,22 +2,19 @@
 /* Colors */
 
 :root {
-    --ucla-blue: #2274a5ff;
-    --ucla-blue-hover: rgb(23, 85, 121);
-    --oxford-blue: #191d32ff;
-    --citrine: #dec62bff;
-    --citrine-hover: rgb(150, 132, 17);
     --ghost-white: #f7f7ffff;
-    --brighter-pink: rgb(233, 135, 154);
-    --bright-pink: #ED6B86;
-    --bright-pink-hover: #ea3e60;
+
+    --black: #233142;
+    --dark-blue: #455d7a;
+    --red: #f95959;
+    --white: #e3e3e3;
   }
 
 /* General Styles */
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: var(--oxford-blue);
+    background-color: var(--ghost-white);
     margin: 0;
     padding-left: 40px;
     padding-right: 40px;
@@ -31,12 +28,12 @@ body {
   
   h1 {
     text-align: center;
-    color: var(--ghost-white);
+    color: var(--red);
   }
 
   h2 {
     text-align: center;
-    color: var(--ghost-white);
+    color: var(--red);
   }
 
   p {
@@ -57,7 +54,7 @@ body {
     align-items: center;
     padding: 10px;
     margin-bottom: 10px;
-    background-color: var(--bright-pink);
+    background-color: var(--dark-blue);
     border-radius: 10px;
     width: 100%;
     display: inline-flex;
@@ -70,6 +67,8 @@ body {
     flex-direction: column;
     width: 30%;
     margin-right: 10px;
+    text-align: center;
+    align-items: center;
   }  
   
   .job-card .job-details .job-title {
@@ -103,12 +102,24 @@ body {
     color: var(--ghost-white);
     text-align: center;
   }
+
+  .apply-button {
+    background-color: var(--red);
+    color: var(--ghost-white);
+    padding: 10px 20px;
+    font-size: 16px;
+    width: fit-content;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+  }
   
   .job-description {
     flex: 1;
     padding: 10px;
-    border-left: 1px solid var(--ghost-white);
-    background-color: var(--brighter-pink);
+    border: 1px solid var(--ghost-white);
+    background-color: var(--dark-blue);
     width: 70%;
     min-height: 89%;
     max-height: 200px;
@@ -118,8 +129,8 @@ body {
 
   .job-description:hover {
     max-height: 100%;
-    background-color: var(--bright-pink-hover);
   }
+
   
   /* Search Bar Styles */
   
@@ -128,50 +139,35 @@ body {
     margin-bottom: 20px;
     text-align: center;
   }
-
-  .apply-button {
-    background-color: var(--ucla-blue);
-    color: white;
-    padding: 10px 20px;
-    font-size: 16px;
-    width: 100%;
-    border: none;
-    cursor: pointer;
-    border-radius: 4px;
-    text-align: center;
-  }
   
-  .apply-button:hover {
-    background-color: var(--ucla-blue-hover);
-  }
-  
-
   .search-bar {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 20px;;
   }
   
   .search-input {
     flex: 1;
     padding: 10px;
     font-size: 16px;
-    border: none;
+    border: 1px solid var(--red);
     border-radius: 4px 0 0 4px;
+    background-color: var(--ghost-white);
   }
   
   .search-button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: var(--ucla-blue);
+    background-color: var(--red);
     color: var(--ghost-white);
-    border: none;
+    border: 1px solid var(--red);
     border-radius: 0 4px 4px 0;
     cursor: pointer;
   }
 
   .search-button:hover {
-    background-color: var(--ucla-blue-hover);
+    background-color: var(--ghost-white);
+    color: var(--red);
   }
   
   /* Responsive Styles */
