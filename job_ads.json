@@ -1,96 +1,149 @@
 {
     "content": [
         {
-            "uuid": "324be670-172f-468f-a783-b9a3f2748bc2",
-            "published": "2023-06-09T15:24:15.069292Z",
-            "expires": "2023-06-25T22:00:00Z",
-            "updated": "2023-06-09T15:32:15.133644Z",
+            "uuid": "5c6c1be4-e554-427f-a7c4-3acd77b66b2e",
+            "published": "2023-06-13T11:38:15.096143Z",
+            "expires": "2023-07-24T22:00:00Z",
+            "updated": "2023-06-13T11:38:16.801669Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "",
+                    "address": "Teatergaten 35",
                     "city": "BERGEN",
-                    "postalCode": "5059",
+                    "postalCode": "5010",
                     "county": "VESTLAND",
                     "municipal": "BERGEN"
                 }
             ],
-            "title": "Resepsjonist og økonomimedarbeider",
-            "description": "<p>På vegne av en større seksap i Bergen Sentrum søker vi for tiden etter en kandidat som kan vikariere i en stilling som resepsjonist og økonomimedarbeider. </p>\r\n<p>Minimum 50 % stilling. </p>\r\n<p>Kan være gode jobbmuligheter utover vikariat. </p>\r\n<h3>Arbeidsoppgaver: </h3>\r\n<ul><li>Fakturering</li><li>Gjennomgang av timelister</li><li>Forefallende arbeid i forbindelse med resepsjon</li><li>Svare på innkommne telefonsamtaler</li></ul>\r\n<h3>Kvalifikasjoner: </h3>\r\n<ul><li>Erfaring med lignende arbeid</li><li>Må kunne kommunisere godt på norsk skriftlig og muntlig</li><li>Gode datakunnskaper, inkludert bruk av office</li></ul>\r\n<h3>Personlige egenskaper: </h3>\r\n<ul><li>Omgjengelig</li><li>Fleksibel</li><li>Effektiv</li></ul>\r\n<p>Høres dette ut som en jobb for deg er du selvfølgelig velkommen til å søke på stillingen. </p>\r\n",
+            "title": "Logistikkerfaring?",
+            "description": "<p>Som <strong>systemkonsulent</strong> i Proplan vil du være en viktig del av teamet og sammen med andre konsulenter og rådgivere jobbe tett med våre kunder. Vi har solid kompetanse innenfor fagene regnskap, økonomi og logistikk, i tillegg til et eget integrasjonsteam som syr sammen flere system på en god måte. </p>\r\n<p>Gjennom 30 år har vi i Proplan levert Visma Business ERP-system til kunder over hele landet. Nå kommer generasjon 2.0, Visma Business NXT, en skybasert løsning bygget på det beste fra Visma Business. Det betyr at det ligger en stor migrasjonsjobb foran oss i årene fremover, som vi ser på med entusiasme og iver! </p>\r\n<br />\r\n<p><strong>Arbeidsdagene våre består i stor grad av:</strong> </p>\r\n<ul><li>Delta i kartlegging av kundens organisasjon, forretningsprosesser og system</li><li>Samarbeid med andre systemleverandører for god integrasjon med ERP-systemet</li><li>Implementering, testing, opplæring og dokumentasjon </li><li>Oppfølging og videreutvikling av kunden etter at de har gått over i driftsfasen </li><li>Betjene support og oppdragshenvendelser fra kunder </li></ul>\r\n<br />\r\n<br />\r\n<p><strong>Hva ser vi etter i deg som vår nye kollega? </strong></p>\r\n<ul><li>Relevant utdanning innen logistikk, fagbrev eller lignende </li><li>Tidligere arbeidserfaring innenfor logistikk/supply chain. Du har gjerne erfaring med lagerflyt, transport og håndholdte terminaler </li><li>Det er en stor fordel om du har erfaring med Visma Business enten som konsulent eller superbruker </li></ul>\r\n<br />\r\n<br />\r\n<p><strong>Vi setter pris på om du har noen av disse egenskapene:</strong> </p>\r\n<ul><li>Et ønske om å bygge en karriere som systemkonsulent </li><li>Du er nysgjerrig og liker å lære nye ting </li><li>Vilje og lyst til å jobbe med oppsett og konfigurering for kunder </li><li>God på kundeservice </li><li>Gode muntlige og skriftlige egenskaper </li></ul>\r\n<br />\r\n<br />\r\n<p><strong>Hva kan vi tilby deg? </strong></p>\r\n<ul><li>Et sertifiserings og opplæringsløp som gir deg mulighet til å lykkes i stillingen </li><li>En viktig stilling i et spennende selskap med store muligheter for videre faglig og personlig utvikling </li><li>Spennende kunder og prosjekter </li><li>Superkjekke kollegaer som har det gøy på jobb og gjør hverandre gode! </li></ul>\r\n<p><strong>Høres dette spennende ut? Da håper vi du søker!</strong></p>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=127&id_utleie=3000823",
-            "applicationDue": "25.06.2023",
+            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=156&id_rekruttering=3000785",
+            "applicationDue": "30.06.2023",
             "occupationCategories": [
                 {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Kontor, forvaltning og saksbehandling"
-                },
-                {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Økonomi, statistikk og regnskap"
+                    "level1": "IT",
+                    "level2": "Utvikling"
                 }
             ],
-            "jobtitle": "Resepsjonist og økonomimedarbeider",
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/324be670-172f-468f-a783-b9a3f2748bc2",
+            "jobtitle": "Systemkonsulent",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/5c6c1be4-e554-427f-a7c4-3acd77b66b2e",
             "employer": {
-                "name": "Anonym arbeidsgiver",
+                "name": "Proplan AS",
                 "orgnr": null,
-                "description": "<p>Sense Personell er et lokalt basert rekruttering og bemanningsselskap som har perfect match som mål for vår virksomhet. Derfor er engasjement for våre kunder og ansatte sammen med kvalitet og tett oppfølging våre viktigste verdier. Vi leverer løsninger innen et bredt spekter av fagområder for våre kunder.Sense Personell har lang bransjeerfaring og solid bakgrunn som gir en unik kompetanse for å levere gode og fleksible løsninger.</p>\r\n",
-                "homepage": null
-            },
-            "engagementtype": "Vikariat",
-            "extent": "Deltid",
-            "starttime": "26.06.2023",
-            "positioncount": "1",
-            "sector": "Privat"
-        },
-        {
-            "uuid": "2454260d-d8ae-4390-90dd-01c320e23c59",
-            "published": "2023-06-09T13:16:15.102815Z",
-            "expires": "2023-06-12T22:00:00Z",
-            "updated": "2023-06-09T13:19:15.273751Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Ringvegen 28, 5412 Stord",
-                    "city": "STORD",
-                    "postalCode": "5412",
-                    "county": "VESTLAND",
-                    "municipal": "STORD"
-                }
-            ],
-            "title": "Elektriker",
-            "description": "<h3>Arbeidsoppgaver</h3>\r\n<p>Vi søker elektrikere med for arbeid i rotasjon.<br />Oppdraget vil gå over flere år. Rotasjonsordningen det gjelder er 14/21 og eller 2/4.<br /><br />Du må ha:<br />Fagbrev<br />FSE / HLR<br />EX Grunnleggende<br /><br />Erfaring fra Commisioning/Testing er ønskelig.<br /><br />Det er og ønskelig med erfaring fra offshorearbeide. <br /><br />Vi er selvsagt behjelpelige med kursing, om dette trengs.</p>\r\n<h3>Avsluttende tekst</h3>\r\n<p>Syns du dette høres som noe for deg? Ta kontakt for å høre hva vi kan tilby!</p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=228&id_utleie=3000075",
-            "applicationDue": "01.08.2023",
-            "occupationCategories": [
-                {
-                    "level1": "Håndverkere",
-                    "level2": "Elektriker/elektro"
-                }
-            ],
-            "jobtitle": "Elektriker",
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/2454260d-d8ae-4390-90dd-01c320e23c59",
-            "employer": {
-                "name": "Offshore Partner AS",
-                "orgnr": "992269464",
-                "description": "Offshore Partner is a recruitment company based in Western Norway, which aims to provide a fast and stable recruitment service to all offshore oil, gas companies.<br /><br />We offer the people you need when you need them.<br /><br />It´s no secret that having the right people is one of the key factors to a successful business.Thats why we specialise in attracting and recruiting the talent your business need in order to grow and<br />maintain long term sustainable success.",
+                "description": "<p>Vi i Proplan hjelper våre kunder inn i fremtiden. Gjennom kunnskap, erfaring og teknologi, hjelper vi våre kunder med å ta i bruk og utnytte fremtidens muligheter. Dette gjør vi gjennom våre tre forretningsområder – Software salg, System Rådgivning og Driftstjenester. Vi selger og leverer programvarer og konsulenttjenester innen oppsett og best practice av regnskap, logistikk, lønn &amp; personal systemer. Vi leverer driftstjenester på regnskap og lønn, og så utvikler vi fantastiske software programmer innen HRM, Time og Tiltak.</p>\r\n<p>Hovedkontoret vårt er i Stavanger, i tillegg har vi regionskontorer i de største byene i Sør-Norge. Totalt er vi 150 ansatte og ligger an til en omsetning på 200 millioner i 2023. Vi har ambisjoner om ytterligere vekst i årene som kommer.</p>\r\n<br />\r\n",
                 "homepage": null
             },
             "engagementtype": null,
             "extent": null,
-            "starttime": "13.06.2023",
-            "positioncount": "10",
+            "starttime": null,
+            "positioncount": "1",
             "sector": null
         },
         {
-            "uuid": "087c40f8-aafd-4b0a-b673-83f095341a68",
-            "published": "2023-06-09T13:05:38.78318Z",
+            "uuid": "3ec9517a-ad78-4c20-811f-f6bd60b92b8c",
+            "published": "2023-06-13T10:37:26.401815Z",
+            "expires": "2023-06-26T23:00:00Z",
+            "updated": "2023-06-13T11:07:03.879074Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "Hardangerfjordvegen 651",
+                    "city": "ØYSTESE",
+                    "postalCode": "5610",
+                    "county": "VESTLAND",
+                    "municipal": "KVAM"
+                },
+                {
+                    "country": "NORGE",
+                    "address": null,
+                    "city": null,
+                    "postalCode": null,
+                    "county": "VESTLAND",
+                    "municipal": "KVAM"
+                }
+            ],
+            "title": "Sesongmedarbeider servitør, kjøkken og bar",
+            "description": "<p>Ledig stilling som sesongmedarbeider 2023 frå snarast og ut september.</p><p>Arbeidsoppgåver vil være servitør, bartender og kjøkkenmedarbeider. Du vil få god opplæring i alle arbeidsoppgåver.</p><p>Me ynskjer oss deg som er opptatt av å gje god kundebehandling, du er motivert for å gjere ein god jobb og du tar initativ. Du kan gjerne også være kreativ.</p><p>Du treng ikkje  ha erfaring frå liknande arbeid tidlegare. </p><p>Motivasjon og lærevilje er viktigare.</p><p>Me har behov for tilsette som kan arbeide frå kl.13:00-21:00, me har open kvar dag i veka og det vil bli satt opp ein turnus etter stillingsstorleik. </p><p>Stillingen vil variere i storleik etter kor mange tilsette me får tak i og kor mykje du vil jobbe. </p><p>Du må være 18 år då me serverer alkohol i restauranten. </p><p>Du må snakke norsk eller engelsk slik at du kan ta i mot bestillingar. </p><p>Me gleder oss til å høyre frå deg. </p>",
+            "sourceurl": null,
+            "source": "DIR",
+            "applicationUrl": null,
+            "applicationDue": "Snarest",
+            "occupationCategories": [
+                {
+                    "level1": "Uoppgitt/ ikke identifiserbare",
+                    "level2": "Ikke identifiserbare"
+                }
+            ],
+            "jobtitle": "Medarbeider (uoppgitt arbeidsområde)",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/3ec9517a-ad78-4c20-811f-f6bd60b92b8c",
+            "employer": {
+                "name": "RESTAURANT OG BAR DRIFT AS",
+                "orgnr": "925446238",
+                "description": null,
+                "homepage": null
+            },
+            "engagementtype": "Sesong",
+            "extent": "Deltid",
+            "starttime": "Etter avtale",
+            "positioncount": "2",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "7db4e03e-8c18-4777-9822-fbba164f20b4",
+            "published": "2023-06-13T10:31:15.04312Z",
+            "expires": "2023-07-30T17:59:59Z",
+            "updated": "2023-06-13T10:31:15.601857Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": null,
+                    "city": "MOLDE",
+                    "postalCode": "6413",
+                    "county": "MØRE OG ROMSDAL",
+                    "municipal": "MOLDE"
+                }
+            ],
+            "title": "Vekter / Sikkerhetskontrollør - Molde Lufthavn",
+            "description": "<strong>Bli en av oss!</strong><br />Lurer du på hva du skal gjøre fremover har vi planen klar for deg! Vi trenger flere dyktige mennesker til jobben som sikkerhetskontrollør ved Molde lufthavn. Vi har behov for <strong>fast deltid.</strong><br />Hvis du sitter med et ønske om å søke, men ikke har vekterutdanningen fra før er ikke det noe problem. Vi dekker nemlig nå både vekter- og sikkerhetskontrollørutdanningen for riktig kandidat. <br /> <br /><strong>Virker dette interessant? Les videre!</strong><br />Som sikkerhetskontrollør ved Molde lufthavn blir du en del av et meget synlig sikkerhetsoppdrag i regionen. Vi ser etter deg som har teft for sikkerhet og service. Du må være god på å møte mennesker på en servicevennlig og respektfull måte. Du har engasjement og evner å skape trygge og hyggelige opplevelser for alle våre reisende. Vi ønsker gjerne at du har erfaring fra sikkerhets- eller serviceyrker, men annen arbeidserfaring er også interessant. Vi har over 1100 sikkerhetskontrollører i Norge, og ser etter mennesker i alle aldre og med ulik bakgrunn.  <br />På våre lufthavner jobber man turnus, både kveld, dag og helg<br /> <br /><strong>Så hvem ser vi etter?</strong><ul><li>Har tydelige og gode kommunikasjonsevner </li><li>Er serviceinnstilt og imøtekommende  </li><li>Liker å jobbe i team der man har et dynamisk arbeidsmiljø  </li><li>Er reflektert, grundig og nøyaktig  </li><li>Kjenner deg igjen i våre verdier; &#34;Pålitelighet, Handlekraft, Samarbeid og Engasjement&#34; </li></ul><br /> <br /><strong>Kvalifikasjoner </strong> <br />I henhold til lov om vaktvirksomhet er det et krav du er fylt 18 år. Det kreves også plettfri vandel. Ettersom at lufthavnen også tiltrekker seg en del utenlandske reisende er det et krav at du også gjør deg godt forstått på engelsk.<br />Det vil bli gjennomført bakgrunnssjekk og du må oppfylle kravene til luftfartstilsynet. Du må derfor dokumentere jobb/studier de 5 siste årene. Det kan være lurt og allerede samle sammen informasjon allerede nå.  se deres hjemmeside for mer informasjon: <a href=\"https://luftfartstilsynet.no/skjema/bakgrunnssjekk/bakgrunnssjekk/\" rel=\"nofollow\">https://luftfartstilsynet.no/skjema/bakgrunnssjekk/bakgrunnssjekk/</a>.  <br />  <br /><strong>Vi tilbyr  </strong><ul><li>Lønn etter tariff, med bransjens beste tjenestegrenstillegg  </li><li>Nasjonal grunnutdanning for vektere (5 uker, dagtid)  </li><li>Grunnutdanning for sikkerhetskontrollører (3 uker, dagtid)  </li><li>Hyggelig og spennende arbeidsmiljø   </li><li>Et sikkerhetskonsern i stadig vekst, med gode karriere- og utviklingsmuligheter  </li><li>Rabatter og personalgoder, som for eksempel firmahytte på Beitostølen  </li></ul><br /> <br /><strong> Arbeidsoppgaver  </strong><ul><li>Adgangskontroll, samt objekt- og områdesikring </li><li>Sikkerhetskontroll av personer, medbrakte gjenstander og bagasje  </li><li>Patruljeringstjenester og andre serviceoppgaver </li></ul><br /> <br /><strong>Hvordan søke  </strong><br />Vi gleder oss til å bli kjent med deg som jobbsøker, og håper at du søker jobb hos oss.  <br />CV og søknad sendes elektronisk via vår søkeportal ved å følge søknadslinken på denne siden. Du vil bli rutet til vår søknadsportal hvor du må klikke på «Apply» og følg så anvisningene på skjermen. Søknader sendt til kontaktepost vil ikke bli behandlet. <br /> <br />Kandidater vil bli kontaktet per e-post, så forsikre deg om at e-posten du registrerer er korrekt. Følg også med i søppelpostkasse, da e-postene kan havne i den kategorien.  <br />Søknader vil bli behandlet fortløpende og aktuelle kandidater vil bli invitert til et web-basert førstegangsintervju.  <br /> <br /><strong>Kontaktperson  </strong><br />For eventuelle spørsmål kontakt: trond.afloy(alfakrøll)avarnsecurity.com<br />Søknadsfrist: Snarest                          <br /> <br /> ",
+            "sourceurl": null,
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://nokas-as.contactrh.com/jobs/14035/41660833/nb_NO",
+            "applicationDue": null,
+            "occupationCategories": [
+                {
+                    "level1": "Transport og lager",
+                    "level2": "Lufttrafikk"
+                },
+                {
+                    "level1": "Reiseliv og mat",
+                    "level2": "Reiseliv, hotell og overnatting"
+                },
+                {
+                    "level1": "Sikkerhet og beredskap",
+                    "level2": "Vakt-, sikrings- og kontrollarbeid"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/7db4e03e-8c18-4777-9822-fbba164f20b4",
+            "employer": {
+                "name": "Avarn Security Aviation AS",
+                "orgnr": null,
+                "description": null,
+                "homepage": "https://avarnsecurity.no"
+            },
+            "engagementtype": "Fast",
+            "extent": "Deltid",
+            "starttime": null,
+            "positioncount": "1",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "e5649295-6a7d-4772-a4c5-a21789e57175",
+            "published": "2023-06-13T09:58:21.36629Z",
             "expires": "2023-06-29T23:00:00Z",
-            "updated": "2023-06-09T13:10:25.385647Z",
+            "updated": "2023-06-13T10:02:24.381097Z",
             "workLocations": [
                 {
                     "country": "NORGE",
@@ -101,12 +154,12 @@
                     "municipal": "BERGEN"
                 }
             ],
-            "title": "Pedagogisk Leder",
-            "description": "<p><strong>Hovedansvarsområder:</strong></p><p>• Planlegge, gjennomføre, vurdere og  dokumentere pedagogisk innhold</p><p>• Bidra til et godt psykososialt miljø</p><p>• Ansvar for at personalet på  avdelingen/basen fungerer som et team</p><p>• Bidra til å sikre godt samarbeid  barnehage- hjem</p><p>• Bidra til et godt samarbeid med eksterne  instanser</p><p>• Vise engasjement og være villig til å  tilegne seg ny kunnskap og anvende den i  praksis</p><p>• Medansvar for å ivareta og videreutvikle  sikkerhet, helse og miljø i barnehagen</p><p>• Kundeorientert</p><p><strong>Vi søker deg som:</strong></p><p>• Barnehagelærerutdanning.</p><p>• Evne og vilje til å jobbe systematisk med å  utvikle pedagogisk kvalitet</p><p>• Er proaktiv med gjennomføringsevne</p><p>• Kan håndtere flere oppgaver samtidig</p><p>• Har gode samarbeidsegenskaper</p><p>• Har interesse for friluftsliv</p><p>• Ledererfaring</p><p><strong>Vi kan tilby:</strong></p><p>• Sterkt fagmiljø i stadig utvikling</p><p>• Kidsa sikrer at alle medarbeidere utvikler  sin kompetanse</p><p>• Handlingsrom innenfor fastsatte rammer</p><p>• Korte beslutningsveier og muligheter for  personlig og faglig utvikling</p><p>• Konkurransekraftige arbeidsbetingelser  med gode pensjon- og forsikringsordninge</p><p>For mer informasjon kontakt: Karianne Gundersen telefon: 45474577</p><p>Søknad sendes innen 30.06.23 per e-post til:  Karianne.gundersen&#64;kidsabarnehager.no</p><p>Stillingen er ledig fra 31 august.</p>",
+            "title": "Barnehagelærer",
+            "description": "<p>Stilling 100% vikariat i Kidsa Olsviksfjellet.</p><p>Stilling ledig fra 22.08.23- 22.05.23.</p><p><strong>Hovedansvarsområder:</strong></p><p>• Planlegge, gjennomføre, vurdere og  dokumentere pedagogisk innhold</p><p>• Bidra til et godt psykososialt miljø</p><p>• Ansvar for at personalet på  avdelingen/basen fungerer som et team</p><p>• Bidra til å sikre godt samarbeid barnehagehjem</p><p>• Bidra til et godt samarbeid med eksterne  instanser</p><p>• Vise engasjement og være villig til å tilegne  seg ny kunnskap og anvende den i praksis</p><p>• Medansvar for å ivareta og videreutvikle  sikkerhet, helse og miljø i barnehagen</p><p>• Kundeorientert</p><p><strong>Vi søker deg som:</strong></p><p>• Barnehagelærerutdanning.</p><p>• Evne og vilje til å jobbe systematisk med å  utvikle pedagogisk kvalitet</p><p>• Er proaktiv med gjennomføringsevne</p><p>• Kan håndtere flere oppgaver samtidig</p><p>• Har gode samarbeidsegenskaper</p><p>• Har interesse for friluftsliv</p><p><strong>Vi kan tilby:</strong></p><p>• Sterkt fagmiljø i stadig utvikling</p><p>• Kidsa sikrer at alle medarbeidere utvikler  sin kompetanse</p><p>• Handlingsrom innenfor fastsatte rammer</p><p>• Korte beslutningsveier og muligheter for  personlig og faglig utvikling</p><p>• Konkurransekraftige arbeidsbetingelser  med gode pensjon- og forsikringsordninger</p><p>For mer informasjon kontakt: Karianne Gundersen telefon: 45474577</p><p>Søknad sendes innen 30.06.23 per e-post til:  Karianne.gundersen&#64;kidsabarnehager.no Stillingen er ledig fra 22. august.</p>",
             "sourceurl": null,
             "source": "ASS",
             "applicationUrl": null,
-            "applicationDue": "30.06.2023",
+            "applicationDue": "..",
             "occupationCategories": [
                 {
                     "level1": "Utdanning",
@@ -114,515 +167,179 @@
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/087c40f8-aafd-4b0a-b673-83f095341a68",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/e5649295-6a7d-4772-a4c5-a21789e57175",
             "employer": {
                 "name": "Kidsa Olsvikfjellet",
                 "orgnr": "996789241",
                 "description": "<p>Kidsa Barnehager driver barnehager på barnas premisser. Dette innebærer at det er det enkelte barns ønsker,  behov og ressurser som legges til grunn for utviklingen av det pedagogiske arbeidet i barnehagene. Kidsa Barnehager har et stort og inspirerende fagmiljø som bidrar til kontinuerlig utvikling. Gjennom systematisk kompetanseheving, metodisk evalueringsarbeid og aktiv  læring av hverandres erfaringer, jobber Kidsa Barnehager hele tiden for å bli bedre og gi barna det beste tilbudet</p>",
                 "homepage": null
             },
-            "engagementtype": "Fast",
+            "engagementtype": "Vikariat",
             "extent": "Heltid",
-            "starttime": "2023-08-31T10:00:00.000Z",
+            "starttime": "2023-08-22T10:00:00.000Z",
             "positioncount": "1",
             "sector": "Privat"
         },
         {
-            "uuid": "7e80f571-099d-471b-aa26-52fc8b91de81",
-            "published": "2023-06-09T11:22:47Z",
-            "expires": "2023-07-09T11:42:07Z",
-            "updated": "2023-06-09T13:45:15.088347Z",
+            "uuid": "db31382b-036d-492a-ab71-88c2230c7cce",
+            "published": "2023-06-13T09:55:15.040195Z",
+            "expires": "2023-06-25T22:00:00Z",
+            "updated": "2023-06-13T10:06:15.954424Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": null,
-                    "city": "VESTBY",
-                    "postalCode": "1540",
-                    "county": "VIKEN",
-                    "municipal": "VESTBY"
-                }
-            ],
-            "title": "Ønsker du å jobbe i alenekantine i Vestby?",
-            "description": "<p>Vi er nå på utkikk etter en engasjert kantineassistent til vårt team i Vestby. Som kantineassistent vil du være en viktig bidragsyter til å skape gode matopplevelser for 40-50 gjester. Du må ha erfaring fra kantine/restaurant/hotell og kunne jobbe selvstendig. Arbeidstid er kl. 07.00-15.00.  Vi ser etter en pålitelig og serviceinnstilt person som har erfaring med matlaging. Oppstart vil være i Juni og må kunne jobbe gjennom sommeren.  Opplæring vil være ved oppstart. <strong></strong></p><p><strong>Arbeidsoppgaver:</strong><br /></p><ul><li>Oppvask / renhold</li><li>Tilberedning av mat, varm og kald</li><li>Kundebehandling</li><li>Annet forfallende arbeid </li></ul><p><strong>Kvalifikasjoner</strong>:<br /></p><ul><li>Erfaring fra kjøkken / kantine</li><li>Kjennskap til IK mat og hygienekrav</li><li>Høy grad av serviceinnstilling og positivitet</li></ul><p><strong>Vi tilbyr:</strong><br /></p><ul><li>IK-mat kurs<br />\n</li><li>Adecco Academy tilbyr forberedelse til fagbrev gjennom teorieksamen<br />\n</li><li>Lønn etter tariff<br />\n</li><li>Gode utviklingsmuligheter og opplæring<br />\n</li><li>Oppfølging av dedikert konsulent i Adecco<br />\n</li><li>Fast ansettelse og minimum 20 % stilling<br />\n</li><li>Tilgang til Adecco sitt fordelsprogram: <a href=\"https://www.adecco.no/medarbeider/fordelsprogrammet/listing/\" rel=\"nofollow\">https://www.adecco.no/medarbeider/fordelsprogrammet/listing/</a>\n</li></ul><p><strong>Hør om hvordan det er å jobbe i Adecco Hospitality via vår podcast: </strong><br /><a href=\"https://eur02.safelinks.protection.outlook.com/?url&#61;https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2F9FbF7zVE5zb&amp;data&#61;05%7C01%7Cvictoria.nesvik%40adeccogroup.com%7Cfca61be55df944295b2908db5d28d9ed%7Cf30ac191b8b445f29a9be5466cb90c2f%7C0%7C0%7C638206202250949801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata&#61;NPhHXqF0XKgpNjjczhbneSH2ji5NkCWBTjLPIMMe2y8%3D&amp;reserved&#61;0\" rel=\"nofollow\">https://spotifyanchor-web.app.link/e/9FbF7zVE5zb</a> </p><p><em><strong>Om Adecco</strong></em></p><p><em>Adecco er et av Norges ledende bemanningsselskap. På kundelisten har vi attraktive bedrifter som trenger kompetente kandidater til spennende oppdrag. Prøv deg i ulike bransjer; nettverket du får mulighet til å bygge kan bli gull verdt når du en dag kanskje kniver om drømmejobben. All arbeidserfaring er dessuten god erfaring. Bruk oss som diskusjonspartner, vi deler gjerne råd som kan sette fart på karrieren din.<br />Registrer deg på: www.adecco.no og søk stillingen via linken om dette er noe for deg!</em></p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://karrieresenter.adecco.no/jobs/2905105-onsker-du-a-jobbe-i-alenekantine-i-vestby/applications/new?promotion=693110-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Reiseliv og mat",
-                    "level2": "Kokk"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/7e80f571-099d-471b-aa26-52fc8b91de81",
-            "employer": {
-                "name": "Adecco Karrieresenter",
-                "orgnr": null,
-                "description": "<p>Adecco Karrieresenter har et solid fagmiljø med bred kompetanse innen aktivt kandidatsøk, kandidatvurderinger og rekruttering til midlertidige oppdrag og faste stillinger hos Adecco. Adecco Karrieresenter er en del av Adecco Norge AS som igjen er 100 prosent eiet av Adecco Group i Sveits. Adecco Karrieresenter er landsdekkende – med spesialiserte rekrutterere innen alle bransjer. Les mer på <a href=\"http://www.adecco.no\" rel=\"nofollow\">www.adecco.no</a></p><p>Adecco Group er en av verdens største aktører innen bemannings- og rekrutteringstjenester. I Norge er selskapet lokalisert i mer enn 50 byer og tettsteder, og omsetter for 3,3 milliarder. Våre kunder er alt fra små lokale virksomheter til store, globale selskaper.</p><p> </p><p> </p>",
-                "homepage": "https://karrieresenter.adecco.no"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "1",
-            "sector": null
-        },
-        {
-            "uuid": "0eab3325-05ba-4f93-8f61-ddb062224e75",
-            "published": "2023-06-09T11:16:31Z",
-            "expires": "2023-07-07T19:59:59Z",
-            "updated": "2023-06-09T13:23:15.588103Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Industriveien 17",
-                    "city": "KRISTIANSUND N",
-                    "postalCode": "6517",
-                    "county": "MØRE OG ROMSDAL",
-                    "municipal": "KRISTIANSUND"
-                }
-            ],
-            "title": "Salgs- og kunderådgivere 25% til Synsam Kristiansund!",
-            "description": "<p><strong>SYNSAM - SE OG BLI SETT</strong></p><p><strong>Vi søker nå Salgs- og kunderådgivere 25% til Synsam Kristiansund!</strong></p><p>Hos oss er kunden alltid nummer 1. Sammen med Synsam-teamet vil du få ansvar for hele kundereisen og sikre bransjens mest fornøyde kunder. Hos oss får du jobbe i bransjens mest innovative selskap med fokus på teknologi, øyehelse og bærekraft. Dette innebærer muligheten til å utvikle klinisk kompetanse, lederskap og spesialisering innen blant annet salg, B2B og mote. </p><p> </p><p> <strong>Dette er noe av det du vil få jobbe med:</strong></p><ul><li>Salgsrådgivning </li><li>Veilede våre kunder i valg av blant annet innfatning, brilleglass, og linser</li><li>Bistå optiker med gjennomføring av kliniske tjenester</li><li>Sikre at butikken ser ryddig og innbydende ut, samt annet forefallende butikkarbeid</li></ul><p> </p><p><strong>Hvem er du?</strong></p><ul><li>Helst erfaring fra kundebehandling, salg og service</li><li>Positiv holdning og lagspiller</li><li>Ambisiøs og på utkikk etter å utvikle deg selv personlig og faglig</li><li>Interessert i kundens perspektiv og behov, og er glad i folk</li><li>Ansvarsfull og resultatorientert</li><li>Du er dyktig på å skape gode relasjoner</li><li>Har et langsiktig perspektiv og vil være med på en spennende reise i Synsam</li></ul><p> </p><p><strong>Vi tilbyr:</strong></p><ul><li>En spennende og variert jobb i Norges ledende optikerkjede</li><li>Salgsbonus basert på butikkens satte mål</li><li>Et engasjerende fagmiljø som gir deg muliget til å utvikle deg</li><li>Et godt arbeidsmiljø der vi er opptatt av å se hver enkelt medarbeider</li><li>Grundig opplæring og utvikling via vår interne skole, Synsam Academy</li><li>Karrieremuligheter, vi ser alltid etter dyktige interne kandidater</li><li>Gode personalrabatter på produkter og tjenester</li></ul><p> </p><p> </p><p><em>Søknadsfrist: </em><strong>07.07.2023</strong><br /><em>Oppstart: </em><strong>Etter avtale</strong></p><p> </p><p><strong>Høres dette spennende ut? Ikke nøl med å ta kontakt dersom du lurer på noe.</strong><br /></p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://jobb.synsam.no/jobs/2905073-salgs-og-kunderadgivere-25-til-synsam-kristiansund/applications/new?promotion=693047-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Salg og service",
-                    "level2": "Salg, butikk- og varehandel"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/0eab3325-05ba-4f93-8f61-ddb062224e75",
-            "employer": {
-                "name": "Synsam Group Norge",
-                "orgnr": null,
-                "description": "<p><br /></p>",
-                "homepage": "https://jobb.synsam.no"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "2",
-            "sector": null
-        },
-        {
-            "uuid": "9b034131-f0bf-44b8-a2fa-be0ad0f85ec3",
-            "published": "2023-06-09T11:07:29Z",
-            "expires": "2023-07-07T19:59:59Z",
-            "updated": "2023-06-09T13:16:16.89298Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Industriveien 17",
-                    "city": "KRISTIANSUND N",
-                    "postalCode": "6517",
-                    "county": "MØRE OG ROMSDAL",
-                    "municipal": "KRISTIANSUND"
-                }
-            ],
-            "title": "Salgs- og kunderådgivere til Synsam Kristiansund!",
-            "description": "<p><strong>SYNSAM - SE OG BLI SET</strong></p><p><strong>Vi søker nå to Salgs- og kunderådgivere 100% til nyåpning Synsam Kristiansund!</strong></p><p>Hos oss er kunden alltid nummer 1. Sammen med Synsam-teamet vil du få ansvar for hele kundereisen og sikre bransjens mest fornøyde kunder. Hos oss får du jobbe i bransjens mest innovative selskap med fokus på teknologi, øyehelse og bærekraft. Dette innebærer muligheten til å utvikle klinisk kompetanse, lederskap og spesialisering innen blant annet salg, B2B og mote. </p><p> </p><p> <strong>Dette er noe av det du vil få jobbe med:</strong></p><ul><li>Salgsrådgivning </li><li>Veilede våre kunder i valg av blant annet innfatning, brilleglass, og linser</li><li>Bistå optiker med gjennomføring av kliniske tjenester</li><li>Sikre at butikken ser ryddig og innbydende ut, samt annet forefallende butikkarbeid</li></ul><p> </p><p><strong>Hvem er du?</strong></p><ul><li>Helst erfaring fra kundebehandling, salg og service</li><li>Positiv holdning og lagspiller</li><li>Ambisiøs og på utkikk etter å utvikle deg selv personlig og faglig</li><li>Interessert i kunedens perspektiv og behov, og er glad i folk</li><li>Ansvarsfull og resultatorientert</li><li>Du er dyktig på å skape gode relasjoner</li><li>Har et langsiktig perspektiv og vil være med på en spennende reise i Synsam</li></ul><p> </p><p><strong>Vi tilbyr:</strong></p><ul><li>En spennende og variert jobb i Norges ledende optikerkjede</li><li>Salgsbonus basert på butikkens satte mål</li><li>Et engasjerende fagmiljø som gir deg mulighet til å utvikle deg</li><li>Et godt arbeidsmiljø der vi er opptatt av å se hver enkelt medarbeider</li><li>Grundig opplæring og utvikling via vår interne skole, Synsam Academy</li><li>Karrieremuligheter, vi ser alltid etter dyktige interne kandidater</li><li>Gode personalrabatter på produkter og tjenester</li></ul><p>  </p>  <p><em>Søknadsfrist: <b>07.07.2023</b></em><br /><em>Oppstart: </em><strong><em>Etter avtale</em></strong></p><p><strong><em></em></strong> </p>  <p><strong>Høres dette spennende ut? Ikke nøl med å ta kontakt dersom du lurer på noe.</strong><br /></p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://jobb.synsam.no/jobs/2905035-salgs-og-kunderadgivere-til-synsam-kristiansund/applications/new?promotion=693024-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Salg og service",
-                    "level2": "Salg, butikk- og varehandel"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/9b034131-f0bf-44b8-a2fa-be0ad0f85ec3",
-            "employer": {
-                "name": "Synsam Group Norge",
-                "orgnr": null,
-                "description": "<p><br /></p>",
-                "homepage": "https://jobb.synsam.no"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "2",
-            "sector": null
-        },
-        {
-            "uuid": "d5edbbff-f9fc-4564-8f68-f3ceba151284",
-            "published": "2023-06-09T10:56:26Z",
-            "expires": "2023-07-01T19:59:59Z",
-            "updated": "2023-06-09T13:00:15.101969Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Synsam",
-                    "city": "ÅLESUND",
-                    "postalCode": "6010",
-                    "county": "MØRE OG ROMSDAL",
-                    "municipal": "ÅLESUND"
-                }
-            ],
-            "title": "Ekstrahjelp til Ålesund Sentrum",
-            "description": "<p><strong></strong><strong>SYNSAM - SE OG BLI SETT</strong></p><p><strong>Vi søker nå ekstrahjelp 20% til Synsam Ålesund Sentrum!</strong></p><p>Hos oss er kunden alltid nummer 1. Sammen med Synsam-teamet vil du få ansvar for hele kundereisen og sikre bransjens mest fornøyde kunder. Hos oss får du jobbe i bransjens mest innovative selskap med fokus på teknologi, øyehelse og bærekraft. Dette innebærer muligheten til å utvikle klinisk kompetanse, lederskap og spesialisering innen blant annet salg, B2B og mote. </p><p> </p><p><strong>Hvorfor skal du begynne å jobbe hos oss:</strong></p><ul><li>En spennende og variert jobb i Norges ledende optikerkjede</li><li>Salgsbonus basert på butikkens satte mål</li><li>Et engasjerende fagmiljø som gir deg mulighet til å utvikle deg</li><li>Et godt arbeidsmiljø der vi er opptatt av å se hver enkelt medarbeider</li><li>Grundig opplæring og utvikling via vår interne skole, Synsam Academy</li><li>Karrieremuligheter, vi ser alltid etter dyktige interne kandidater</li><li>Gode personalrabatter på produkter og tjenester</li></ul><p> </p><p><strong>Dine arbeidsoppgaver:</strong></p><ul><li>Salgsrådgivning</li><li>Kundeoppfølging</li><li>Timebookinger</li><li>Sikre at butikken ser ryddig og innbydende ut, samt annet forefallende butikkarbeid</li></ul><p> </p><p><strong>Hvem er du?</strong></p><ul><li>Positiv og utadvendt</li><li>Noe erfaring fra butikkarbeid</li><li>Interessert i kundens perspektiv og behov, og er glad i folk</li><li>Gode samarbeidsevner</li><li>Trives med høyt tempo</li><li>Ansvarsbevisst og initiativrik</li><li>Har et langsiktig perspektiv og vil være med på en spennende reise i Synsam</li></ul><p> </p><p> </p><p><em>Søknadsfrist: <strong>01.07.2023</strong></em><br /><em>Oppstart: </em><strong>Snarest</strong></p><p> </p><p><strong>Høres dette spennende ut? Ikke nøl med å ta kontakt dersom du lurer på noe.</strong><strong></strong><br /></p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://jobb.synsam.no/jobs/2904980-ekstrahjelp-til-alesund-sentrum/applications/new?promotion=692981-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Salg og service",
-                    "level2": "Salg, butikk- og varehandel"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/d5edbbff-f9fc-4564-8f68-f3ceba151284",
-            "employer": {
-                "name": "Synsam Group Norge",
-                "orgnr": null,
-                "description": "<p><br /></p>",
-                "homepage": "https://jobb.synsam.no"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "1",
-            "sector": null
-        },
-        {
-            "uuid": "6a708140-8911-4a51-8d93-569e553e0eda",
-            "published": "2023-06-09T10:53:50Z",
-            "expires": "2023-07-09T10:57:46Z",
-            "updated": "2023-06-09T12:59:15.135456Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Gamle Oslo",
-                    "city": "OSLO",
-                    "postalCode": "0191",
-                    "county": "OSLO",
-                    "municipal": "OSLO"
-                }
-            ],
-            "title": "Personlig assistent søkes til voksen dame med ME i Oslo",
-            "description": "<p>Hei! Jeg er en voksen dame med ME som nå søker etter en assistent til mitt team. Som person er du rolig og pliktoppfyllende. Det er viktig at du ser hva som skal gjøres uten å måtte få beskjed om det. Jeg trenger blant annet hjelp med rengjøring, handling, matlaging og bistand til legebesøk eller lignende. <br /><strong><br /> Stilling og arbeidstid:</strong> <br /> Jeg er nå på utkikk etter en tilkallingsvikar som har mulighet til å stille opp på dagtid i ukedager. Dette vil konkretiseres og planlegges sammen med meg. Her er det gode muligheter for å kombinere for eksempel jobb og studier eller en annen jobb.<br /><br /><br /></p><p><strong>Ønskede kvalifikasjoner og egenskaper: </strong></p><ul><li>Et voksent og stabilt menneske</li><li> Du har kunnskap om ME </li><li>God menneskelig forståelse Rolig (snakker og beveger deg rolig) </li><li>Du er ansvarsfull, pliktoppfyllende og holder avtaler</li><li> Ikke røyker, dette er et krav </li><li>Ikke bruke parfymeprodukter på jobb, dette er et krav </li><li>Du bor gjerne i nærheten av Sagene <br /><br />\n</li><li><strong>Arbeidsoppgaver:</strong></li><li>Rengjøring, skift og vask av sengetøy </li><li>Handling og praktiske gjøremål utenfor hjemmet</li><li> Matlaging og tilrettelegging ved måltider </li><li>Aktiviteter i og utenfor hjemmet <br /><br /><br /><strong>Vi tilbyr:</strong> </li><li>En meningsfylt jobb </li><li>Teoretisk og praktisk opplæring </li><li>Relevante kurs </li><li>Tett oppfølging og samarbeid med lokal BPA koordinator </li><li>En jobb med frihet og ansvar </li><li>Erfaring fra helse- og omsorgssektoren</li></ul>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://miogruppen.teamtailor.com/jobs/2904956-personlig-assistent-sokes-til-voksen-dame-med-me-i-oslo/applications/new?promotion=692977-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Helse og sosial",
-                    "level2": "Helse"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/6a708140-8911-4a51-8d93-569e553e0eda",
-            "employer": {
-                "name": "Mio BPA",
-                "orgnr": null,
-                "description": "<p>Mio BPA er en av Norges største BPA-leverandører. Vi har lang og bred erfaring, og kan levere tjenester i 116 norske kommuner. Vi har som mål å levere Norges beste BPA-tjenester, og tilbyr skreddersydde BPA-løsninger i henhold til den enkeltes behov. Det er viktig for oss å kunne gi våre kunder den aller beste tjenesten og at vi er den beste arbeidsplassen for våre medarbeidere. Mio BPA er en del av Mio-konsernet som er 100 prosent norskeid.</p><p>Vi jobber alltid ut ifra disse verdiene: <br /></p><p><strong>• Respektfull:</strong> Vi er åpne og møter andre med vennlighet og forståelse. Alle vi møter skal føle seg sett, anerkjent for den de er og verdifulle.</p><p><strong>• Pålitelig: </strong>Vi er til å stole på og holder det vi lover. Vi opptrer på en måte som gir tillit og trygghet.</p><p><strong>• Modig:</strong> Vi utgjør en forskjell for hvert enkelt menneske vi møter. Vi gir mennesker et bedre liv og frihet til å leve slik de vil.</p>",
-                "homepage": "https://miogruppen.teamtailor.com"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "1",
-            "sector": null
-        },
-        {
-            "uuid": "e5c8c4eb-dcca-4fa5-b2a1-c1c30df91627",
-            "published": "2023-06-09T10:49:06Z",
-            "expires": "2023-07-09T10:59:45Z",
-            "updated": "2023-06-09T13:03:15.395384Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": null,
-                    "city": "OSLO",
-                    "postalCode": "0184",
-                    "county": "OSLO",
-                    "municipal": "OSLO"
-                }
-            ],
-            "title": "Er du Signex nye prosjektleder?",
-            "description": "<p>Som prosjektleder vil du være ansvarlig for planlegging og gjennomføring av noen av våre prosjekter, i samarbeid med et kompetent støtteapparat.<br /><br />Du vil jobbe tett med både kunder og bedriften. Du er den som gir kunden trygghet i et marked der det som selges er unike tilpassede produkter og løsninger du har vært med på å skape.<br /><br />Du må trives med budsjettansvar, og ikke minst være komfortabel i et uformelt og kreativt miljø.<br /></p><h3>Vi vektlegger<br />\n</h3><ul><li>Selvstendighet</li><li>En porsjon estetisk sans</li><li>Tillitsskapende tilnærming</li><li>Strukturert arbeidsform</li><li>God skriftlig og muntlig fremstillingsevne</li><li>Evne til å avdekke mersalg</li><li>Grunnleggende databruker kunnskap (MS Office)</li><li>God helhetsforståelse</li></ul><p>Salgs og prosjektavdelingen vår består av positive og dyktige medarbeidere med lang erfaring. Selv om stillingen har et budsjettansvar vil du også inngå som en del av et kollegialt team der informasjon om marked, kunder og faglig kunnskap fortløpende deles og informeres om.</p><h3>\n<br />Bakgrunn</h3><ul><li>Du har allerede fartstid med erfaring fra skilt- eller grafisk bransje?</li><li>Du kan ha bakgrunn som profildesigner fra videregående skole, men ønsker å jobbe markedsrettet?</li><li>Du liker prosjektledelse og har interesse for visuell kvalitet, materialer og uttrykksformer - også i et kommersielt perspektiv?</li><li>Har du en praktisk håndverksbakgrunn der viktige områder som materialforståelse, form, perspektiv og sammenføynings teknikk har vært sentralt?</li></ul><h3>\n<br />Om arbeidsgiveren</h3><p>Signex AS, etablert i 1986, er en landsdekkende leverandør av skilt og dekorprodukter. Våre leveranser favner alt fra små enkeltleveranser til spektakulære installasjoner, ikke minst har vår avdeling for kunstproduksjon satt spor etter seg. Signex er en stor leverandør innenfor offentlig transport og spesielt knyttet til profilering av tog. Andre typiske kunder er eiendomsselskaper, entreprenører, statlige og kommunale virksomheter og bedrifter, og næringslivet generelt.</p><p><br />Vårt hovedfokus er å skape kundetilpassede identitetsbærere og utsmykkingselementer, så vel innvendig som på fasader og i det offentlige rom. I tillegg til egen kompetanse og kreativitet er vi svært ofte i samarbeid med formgivermiljøer innenfor arkitektur og design, noe som sikrer våre kunder særpregede og varige løsninger.<br /><br />Vi er 20 medarbeidere som holder til i spennende lokaler i Stålverksveien 2 på Ensjø i Oslo. For mer informasjon om Signex: <a href=\"https://www.selfo.no/post/signex-innovasjon-og-vekst-i-skiltbransjen\" rel=\"nofollow\">https://www.selfo.no/post/signex-innovasjon-og-vekst-i-skiltbransjen</a></p><ul></ul><h3><strong><br /></strong></h3><h3><strong>Spørsmål om stillingen:</strong></h3><h5>Kenneth Hverven</h5><h5>Salgsleder / Prosjektleder</h5><ul><li><a href=\"mailto:k.hverven&#64;signex.no\" rel=\"nofollow\">k.hverven&#64;signex.no</a></li><li>920 97 195</li></ul><p> </p><h4>Selfo Rekruttering</h4><p>Det er Erik Mellebye-Giertsen hos Selfo Rekruttering som formidler denne stillingen på vegne av Signex.</p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://selfoas.teamtailor.com/jobs/2904931-er-du-signex-nye-prosjektleder/applications/new?promotion=692988-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Ledelse, administrasjon og rådgivning"
-                },
-                {
-                    "level1": "Salg og service",
-                    "level2": "Personlig tjenesteyting"
-                },
-                {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Kontor, forvaltning og saksbehandling"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/e5c8c4eb-dcca-4fa5-b2a1-c1c30df91627",
-            "employer": {
-                "name": "Selfo Rekruttering",
-                "orgnr": null,
-                "description": "<p>Selfo Rekruttering ble etablert i 2023. Men selv om selskapet er ungt, har vi lang erfaring fra både næringslivet og med rekruttering. Vi leverer rekrutteringstjenester til store og små bedrifter på Østlandet.</p><p>&#34;Hver prosess er unik&#34;</p>",
-                "homepage": "https://selfoas.teamtailor.com"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "1",
-            "sector": null
-        },
-        {
-            "uuid": "11796880-d005-42c7-b75b-76fe1f952b72",
-            "published": "2023-06-09T10:48:57Z",
-            "expires": "2023-07-09T11:06:39Z",
-            "updated": "2023-06-09T13:08:16.174619Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Fabrikkgaten 6",
+                    "address": "",
                     "city": "BERGEN",
                     "postalCode": "5059",
                     "county": "VESTLAND",
                     "municipal": "BERGEN"
                 }
             ],
-            "title": "Har du truckførerbevis og ønsker å jobbe innen lager og logistikk i Bergen?",
-            "description": "<p>På vegne av spennende kunder i Bergen søker vi deg som er på jakt etter en deltidsjobb. Vi søker deg som kan jobbe både dag-, ettermiddag-, og nattskift. Du må være svært fleksibel og må kunne stille på kort varsel.</p><p>Har du høy arbeidskapasitet, er løsningsorientert, punktlig og tar eierskap på arbeidsoppgavene dine? Da ønsker vi å høre fra deg!</p><p> </p><p><strong>       Kvalifikasjoner:</strong></p><ul><li>Som søker må du ha fylt 18 år</li><li>Erfaring fra lager/terminalarbeid</li><li>Truckførerbevis T1-T4</li><li>Beherske norsk eller et annet skandinavisk språk</li><li>Politiattest er påkrevd og må fremvises før tiltredelse, jf. Postlovens § 31.<br /><br />\n</li></ul><p><strong>      Arbeidsoppgaver:</strong></p><ul><li>Pakking og plukking</li><li>Truckkjøring, lasting og lossing</li><li>Annet forefallende arbeid<br /><br /><strong>Vi tilbyr:</strong>\n</li></ul><ul><li>Trivelig og inkluderende arbeidsmiljø</li><li>Kursing og opplæring</li><li>Opparbeide deg kompetanse og utviklingsmuligheter</li><li>Konkurransedyktige betingelser med lønn hver 14. dag</li><li>I Adecco tilbyr vi normalt fast ansettelse og minimum 20% stilling. Dette sikrer også mulighet for pensjonsopptjening</li><li>Adecco’s fordelsprogram, med blant annet rabatterte priser på treningsstudio, reiser med mer</li></ul><p><em><strong><br />Om Adecco</strong></em></p><p><em>Adecco er et av Norges ledende bemanningsselskap. På kundelisten har vi attraktive bedrifter som trenger kompetente kandidater til spennende oppdrag. Prøv deg i ulike bransjer; nettverket du får mulighet til å bygge kan bli gull verdt når du en dag kanskje kniver om drømmejobben. All arbeidserfaring er dessuten god erfaring. Bruk oss som diskusjonspartner, vi deler gjerne råd som kan sette fart på karrieren din.<br />Registrer deg på: www.adecco.no og søk stillingen via linken om dette er noe for deg!</em></p>",
+            "title": "Distribusjonskjøring",
+            "description": "<p>Har du klasse C sertifikat har vi gode jobbmuligheter for deg. </p>\r\n<p>Gode jobbmuligheter i vår virksomhet.</p>\r\n<h3>Arbeidsoppgaver: </h3>\r\n<ul><li>Ditribusjonskjøring etter oppsatte ruter i området Stor-Bergen</li><li>Kjøring også i Bergen sentrum</li></ul>\r\n<h3>Kvalifikasjoner: </h3>\r\n<ul><li>Førerkort klasse C. Efaring vil bli vektlagt. </li><li>YSK</li><li>Må kunne kommunisere på norsk og/eller engelsk. Språklige ferdigheter vil bli vektlagt. </li></ul>\r\n<h3>Personlige egenskaper: </h3>\r\n<ul><li>Omgjengelig</li><li>Strukturert </li><li>Stå på vilje</li></ul>\r\n<p>Er dette aktuelt for deg hører vi gjerne fra deg. Søk på stillingen og legg ved CV. </p>\r\n<br />\r\n",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://karrieresenter.adecco.no/jobs/2904929-har-du-truckforerbevis-og-onsker-a-jobbe-innen-lager-og-logistikk-i-bergen/applications/new?promotion=693007-nav-no",
-            "applicationDue": null,
+            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=127&id_utleie=3000825",
+            "applicationDue": "25.06.2023",
             "occupationCategories": [
                 {
                     "level1": "Transport og lager",
-                    "level2": "Logistikk, lagerarbeid og innkjøp"
+                    "level2": "Tog-, sporvogn- og vegtrafikk"
                 },
                 {
                     "level1": "Transport og lager",
-                    "level2": "Truckfører"
+                    "level2": "Logistikk, lagerarbeid og innkjøp"
                 }
             ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/11796880-d005-42c7-b75b-76fe1f952b72",
+            "jobtitle": "Sjåfør klasse C",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/db31382b-036d-492a-ab71-88c2230c7cce",
             "employer": {
-                "name": "Adecco Karrieresenter",
+                "name": "Anonym arbeidsgiver",
                 "orgnr": null,
-                "description": "<p>Adecco Karrieresenter har et solid fagmiljø med bred kompetanse innen aktivt kandidatsøk, kandidatvurderinger og rekruttering til midlertidige oppdrag og faste stillinger hos Adecco. Adecco Karrieresenter er en del av Adecco Norge AS som igjen er 100 prosent eiet av Adecco Group i Sveits. Adecco Karrieresenter er landsdekkende – med spesialiserte rekrutterere innen alle bransjer. Les mer på <a href=\"http://www.adecco.no\" rel=\"nofollow\">www.adecco.no</a></p><p>Adecco Group er en av verdens største aktører innen bemannings- og rekrutteringstjenester. I Norge er selskapet lokalisert i mer enn 50 byer og tettsteder, og omsetter for 3,3 milliarder. Våre kunder er alt fra små lokale virksomheter til store, globale selskaper.</p><p> </p><p> </p>",
-                "homepage": "https://karrieresenter.adecco.no"
+                "description": "<p>Sense Personell er et lokalt basert rekruttering og bemanningsselskap som har perfect match som mål for vår virksomhet. Derfor er engasjement for våre kunder og ansatte sammen med kvalitet og tett oppfølging våre viktigste verdier. Vi leverer løsninger innen et bredt spekter av fagområder for våre kunder.Sense Personell har lang bransjeerfaring og solid bakgrunn som gir en unik kompetanse for å levere gode og fleksible løsninger.</p>\r\n",
+                "homepage": null
             },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
-            "positioncount": "5",
-            "sector": null
-        },
-        {
-            "uuid": "0f13cfdb-0945-4823-9a99-08ba2983cf5d",
-            "published": "2023-06-09T10:48:34Z",
-            "expires": "2023-07-01T19:59:59Z",
-            "updated": "2023-06-09T12:58:15.09175Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": "Moa",
-                    "city": "ÅLESUND",
-                    "postalCode": "6010",
-                    "county": "MØRE OG ROMSDAL",
-                    "municipal": "ÅLESUND"
-                }
-            ],
-            "title": "Ekstrahjelper til Synsam Ålesund Moa",
-            "description": "<p><strong></strong><strong>SYNSAM - SE OG BLI SETT</strong></p><p><strong>Vi søker nå ekstrahjelper i både 10% og 20% til Synsam Ålesund Moa!</strong></p><p>Hos oss er kunden alltid nummer 1. Sammen med Synsam-teamet vil du få ansvar for hele kundereisen og sikre bransjens mest fornøyde kunder. Hos oss får du jobbe i bransjens mest innovative selskap med fokus på teknologi, øyehelse og bærekraft. Dette innebærer muligheten til å utvikle klinisk kompetanse, lederskap og spesialisering innen blant annet salg, B2B og mote. </p><p> </p><p><strong>Hvorfor skal du begynne å jobbe hos oss:</strong></p><ul><li>En spennende og variert jobb i Norges ledende optikerkjede</li><li>Salgsbonus basert på butikkens satte mål</li><li>Et engasjerende fagmiljø som gir deg mulighet til å utvikle deg</li><li>Et godt arbeidsmiljø der vi er opptatt av å se hver enkelt medarbeider</li><li>Grundig opplæring og utvikling via vår interne skole, Synsam Academy</li><li>Karrieremuligheter, vi ser alltid etter dyktige interne kandidater</li><li>Gode personalrabatter på produkter og tjenester</li></ul><p> </p><p><strong>Dine arbeidsoppgaver:</strong></p><ul><li>Salgsrådgivning</li><li>Kundeoppfølging</li><li>Timebookinger</li><li>Sikre at butikken ser ryddig og innbydende ut, samt annet forefallende butikkarbeid</li></ul><p> </p><p><strong>Hvem er du?</strong></p><ul><li>Positiv og utadvendt</li><li>Noe erfaring fra butikkarbeid</li><li>Interessert i kundens perspektiv og behov, og er glad i folk</li><li>Gode samarbeidsevner</li><li>Trives med høyt tempo</li><li>Ansvarsbevisst og initiativrik</li><li>Har et langsiktig perspektiv og vil være med på en spennende reise i Synsam</li></ul><p> </p><p> </p><p><em>Søknadsfrist: <b>01.07.2023</b></em><br /><em>Oppstart: <b>Snarest</b></em></p><p> </p><p><strong>Høres dette spennende ut? Ikke nøl med å ta kontakt dersom du lurer på noe.</strong><strong></strong><br /></p>",
-            "sourceurl": null,
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://jobb.synsam.no/jobs/2904925-ekstrahjelper-til-synsam-alesund-moa/applications/new?promotion=692970-nav-no",
-            "applicationDue": null,
-            "occupationCategories": [
-                {
-                    "level1": "Salg og service",
-                    "level2": "Salg, butikk- og varehandel"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/0f13cfdb-0945-4823-9a99-08ba2983cf5d",
-            "employer": {
-                "name": "Synsam Group Norge",
-                "orgnr": null,
-                "description": "<p><br /></p>",
-                "homepage": "https://jobb.synsam.no"
-            },
-            "engagementtype": null,
-            "extent": null,
-            "starttime": null,
+            "engagementtype": "Vikariat",
+            "extent": "Heltid",
+            "starttime": "26.06.2023",
             "positioncount": "2",
-            "sector": null
+            "sector": "Privat"
         },
         {
-            "uuid": "d05caf83-73be-4b82-84bd-0c6e3664e390",
-            "published": "2023-06-09T10:28:26.657613Z",
-            "expires": "2023-07-06T19:59:59Z",
-            "updated": "2023-06-09T12:29:16.116856Z",
+            "uuid": "e020087e-6d57-44e9-8755-e1fee2af2168",
+            "published": "2023-06-13T09:31:15.052766Z",
+            "expires": "2023-06-30T17:59:59Z",
+            "updated": "2023-06-13T09:32:15.105551Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "Bøkkerveien 4, 0579 Oslo, Norge",
+                    "address": null,
                     "city": "OSLO",
-                    "postalCode": "0579",
+                    "postalCode": "0663",
                     "county": "OSLO",
                     "municipal": "OSLO"
                 }
             ],
-            "title": "Hasle Linie Gastropub søker servitører/runners til en fantastisk sommersesong/høst!",
-            "description": "<p>Akershusgruppen er en restaurantgruppe som driver flere av Oslos populære spisesteder og gastropuber med egne håndverksbryggerier. Porteføljen består i tillegg av barer med et bredt utvalg av øl, whiskey og cocktails.   </p><p><br /></p><p><br /></p><p><br /></p><p>I 2007 blir Tom Erik, Ole og Børre enige om å slå seg sammen og danner da Akershusgruppen. De har alle tre med seg ulike steder inn i gruppen - deriblant Jarmann, Beer Palace, Underbar.</p><p><br /></p><p>Selv om stedene har ulike konsepter er det en fellesnevner; det er folkelige konsepter. «Det skal være steder for folk flest». </p><p>I 2008 etablerer de sitt første felles prosjekt; Cafe Skansen og i 2010 starter de opp sommerrestauranten Pappabuene, som ligger på Rådhusbrygga. </p><p><br /></p><p><br /></p><p>Høsten 2013 ser enda en ny gastropub dagens lys; Nydalen Bryggeri og Spiseri. Lokalene er store nok til å romme både en restaurant over to etasjer og et mikrobryggeri - suksessen med håndverksbrygg fortsetter.</p><p><br /></p><p><br /></p><p>I oktober 2019 åpnet Hasle Linie Gastropub på Hasle. Vi har tatt med oss gode erfaringer fra Nydalen og har etablert en nabolagsrestaurant med vellaget mat, god drikke, spill og moro.</p>",
-            "sourceurl": "https://job.mojob.io/23033/",
-            "source": "IMPORTAPI",
-            "applicationUrl": "https://job.mojob.io/23034/?utm_id=15125&utm_campaign=15125&utm_medium=job_share&utm_source=nav&utm_term=SERVIT%C3%98R%2FRUNNER&utm_content=23034",
-            "applicationDue": "06.07.2023",
-            "occupationCategories": [
-                {
-                    "level1": "Reiseliv og mat",
-                    "level2": "Restaurant"
-                }
-            ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/d05caf83-73be-4b82-84bd-0c6e3664e390",
-            "employer": {
-                "name": "Hasle Linie Gastropub",
-                "orgnr": null,
-                "description": "<p>Hasle Linie Gastropub er det siste tilskuddet i Akershusgruppens portfølje. Vår nabolagspub med beliggenhet i Vinslottet handelshus åpnet dørene i oktober 2019 og har på kort tid etablert seg som en populær destinasjon for beboere og besøkende i området. Vi er en pulserende restaurant med god mat og drikke i fokus. Vi serverer Øl fra eget bryggeri på Amundsen og Nydalen, og lekne retter som imponerer uten å være pretensiøst.</p>",
-                "homepage": null
-            },
-            "engagementtype": "Fast",
-            "extent": "Heltid",
-            "starttime": null,
-            "positioncount": "3",
-            "sector": "Privat"
-        },
-        {
-            "uuid": "a7febd87-ac6d-4205-9971-dd5fe81706e0",
-            "published": "2023-06-09T10:23:33.008Z",
-            "expires": "2023-07-30T19:59:59Z",
-            "updated": "2023-06-09T12:24:15.686712Z",
-            "workLocations": [
-                {
-                    "country": "NORGE",
-                    "address": null,
-                    "city": "TROMSØ",
-                    "postalCode": "9251",
-                    "county": "TROMS OG FINNMARK",
-                    "municipal": "TROMSØ"
-                }
-            ],
-            "title": "Kokk / Chef",
-            "description": "<p>Vil du bli en del av vårt flotte team på Quality Hotel Saga?</p><p>Har du et naturlig smil, erfaring fra kokkeyrket og er full av pågangsmot og positiv energi og har behov for en fast stilling? </p><p>Vi søker deg som har service og kjærlighet for mat i &#96;ryggmargen&#96;, er opptatt av å gi av deg selv, detaljorientert og ansvarsbevisst. Du er ikke redd for å ta i et tak, i egen og andre avdelinger, om det skulle trenges. Videre er godt humør, glimt i øyet og ønske om å yte service avgjørende.</p><p>Som kokk vil du jobbe i et team med vårt restaurantteam. Hovedoppgavene er å forberede alt av mat som produseres på hotellet og bidra til videre utvikling av våre matkonsepter. </p><p>Vi søker deg som har minimum tre års erfaring fra kokkeyrket, fortrinnsvis har godkjent fagbrev og er fleksibel, har godt humør og er arbeidsom og pliktoppfyllende, og selvfølgelig med en stor interesse for mat! Du bør beherske et av de skandinaviske språkene, dog er ikke dette et krav. Et minimum er en god kommunikasjonsevne på engelsk.</p><p>Oppstartsdato: August/September eller etter avtale.</p><p>Would you like to become part of our great team at Quality Hotel Saga?</p><p>Do you have a natural smile, experience from the cooking profession and are full of courage and positive energy and are you in need of a permanent position?</p><p>We are looking for you who have service and a love for food in your &#96;backbone&#39;, are keen to give of yourself, detail-oriented and aware of responsibility. You are not afraid to work alone. Furthermore, a good mood, a twinkle in the eye and a desire to provide service are essential.</p><p>As a chef, you will work in a team with our restaurant team. The main tasks are to prepare all food produced at the hotel and to contribute to the further development of our food concepts.</p><p>We are looking for you who have at least three years&#39; experience in the cooking profession, preferably have an approved certificate and are flexible, have a good mood and are hardworking and conscientious, and of course with a great interest in food! You should have a command of one of the Scandinavian languages, although this is not a requirement. Good communication skills in English are a minimum.</p><p>Start date: August/September or by the agreement. </p><p></p>",
+            "title": "Er du god på formidling og liker å påvirke til faglig utvikling ?",
+            "description": "<strong>Tolletatens Grensedivisjon søker hovedveileder for praksis i bachelor i toll, vareførsel og grensekontroll </strong><br /> <br />Som en del av bachelor i toll, vareførsel og grensekontroll er det per nå to praksisemner i henholdsvis andre og femte semester. For å bidra til gjennomføring av praksisemnene søker vi nå etter en hovedveileder for Grensedivisjonen, område Oslofjord.  <br /> <br />Som hovedveileder vil hverdagen din være preget av utstrakt samarbeid med linjeledelsen, fagmiljøene i Tolletaten og Universitetet i Stavanger (UiS).<br /> <br />I stillingen som hovedveileder vil du ha faglig og administrativt koordineringsansvar for gjennomføring av gode praksisperioder i området. Det ansettes praksisveiledere ved de ulike lokasjonene som hovedveileder skal koordinere praksisen gjennom.<br />Du skal være studentenes kontaktperson i praksisgjennomføringen og sikre en god overgang mellom teori og praksis. Sammen med lokasjonens linjeledere og praksisveiledere skal du i tillegg sikre at studentens mestring styrkes gjennom god dialog basert på emneplan for praksis. Studenter og praksisveiledere vil stort sett følge normal turnus på stedet.<br />Som hovedveileder skal du også bidra i videreutviklingen av praksisperiodene, samt inngå faglig og administrativt samarbeid med UiS, utdanningsansvarlig i Tolletaten, andre hovedveiledere, praksisveiledere samt ledelse på praksissted.<br /> <br /><strong>Sentrale arbeidsoppgaver:</strong><ul><li>ansvar for praktisk gjennomføring av praksisemnene</li><li>utvikle det faglige innholdet i praksisperiodene sammen med stabene i Grensedivisjonen</li><li>oppfølging av områdets praksisveiledere, og nødvendig koordinering med linjeledelse og vaktlagene</li><li>samarbeide med emneansvarlig og faglig ansvarlig for praksisen i Grensedivisjonen, utdanningsansvarlig i Tolletaten og emneansvarlig ved UiS om evaluering og videreutvikling av praksis</li><li>samarbeide med de andre hovedveiledere om planlegging, gjennomføring og evaluering av praksisperiodene</li><li>faglig og administrativ oppfølging av studentene i praksisperioden</li><li>administrative forberedelse av praksisperiodene, med informasjonsmøter, presentasjoner og koordinering med vaktlag, linjeledere, medarbeidere fra ulike seksjoner og praksisveiledere</li></ul><br /> <br />Andre arbeidsoppgaver må påregnes ved behov etter hvert som praksisen utvikles og implementeres.<br /> <br />Som hovedveileder vil det være perioder med mye faglig arbeid, men også perioder hvor du skal utføre ordinær tjeneste på stedet. Arbeidet som hovedveileder skal ikke overskride 50 % av stillingen. Resterende arbeidstid skal brukes i operativ tjeneste. Det er en forutsetning at du holder deg oppdatert på operativt arbeid i Grensedivisjonen.<br /> <br /><strong>Kvalifikasjonskrav:</strong><ul><li>bestått Tolletatens etatsutdanning</li><li>oppdatert operativ kompetanse</li><li>god innsikt i tollfaglige kontroll- og ekspedisjonsoppgaver i området, samt operative ferdigheter som studentene skal trenes i</li><li>formell utdannelse i veiledningspedagogikk. Dersom du ikke har dette, så vil Tolletaten legge til rette for at det gjennomføres et slikt emne (10 stp) ved UiS</li><li>ønskelig med erfaring fra veiledning og kompetanseutvikling</li><li>ønskelig med erfaring med planlegging, koordinering og administrering av opplærings- og utviklingsarbeider</li></ul><br /> <br /><strong>Dine egenskaper:</strong><ul><li>interesse for utdanning, opplæring og mestring</li><li>gode kommunikasjonsevner både muntlig og skriftlig</li><li>gode samarbeidsevner og relasjonsfremmende egenskaper</li><li>løsningsorientert, tar initiativ og en utviklingsorientert tilnærming</li><li>strukturert og høy gjennomføringsevne</li><li>høy integritet</li></ul><br /> <br /><strong>Vi tilbyr:</strong><ul><li>muligheter for påvirkning og faglig utvikling i en spennende stilling</li><li>et godt arbeidsmiljø med engasjerte og kompetente arbeidskollegaer og forventningsfulle studenter</li><li>stilling som tolloverinspektør med en årslønn mellom kr 584 500 – 624 500 (ltr. 60 – 64)</li><li>gode pensjons-, forsikrings- og låneordninger i Statens pensjonskasse</li><li>fleksibel arbeidstidsordning og trening i arbeidstiden</li><li>arbeidssted vil være en av praksislokasjonene i område Oslofjord.</li></ul><br />Du må kunne fremlegge ordinær og utvidet politiattest ved tilbud om ansettelse. <br /> <br />Nærmere informasjon om stillingen får du ved å ta kontakt med Tine Viveka Westerberg, seniorrådgiver kompetanseutvikling- og styring, telefon 988 17 798 <br /> <br /> <br /><strong>Bakgrunnssjekk</strong><br />Vi benytter Semac bakgrunnssjekk på aktuelle kandidater.<br /> <br /><strong>Krav til søknaden</strong><br />Fyll ut feltene &#34;Utdannelse&#34; og &#34;Arbeidserfaring&#34; og last opp relevante vitnemål og eventuelle attester.<br /> <br /><strong>Inkludering og mangfold</strong><br />Tolletaten er opptatt av mangfold og ønsker å være en inkluderende arbeidsplass som gjenspeiler befolkningen. Vi har behov for medarbeidere med ulike bakgrunner, erfaringer, kompetanser og perspektiver for å løse vårt samfunnsoppdrag. Vi oppfordrer derfor alle kvalifiserte kandidater til å søke. Dersom det er kvalifiserte kandidater med funksjonsnedsettelse, hull i CV-en eller innvandrerbakgrunn, vil vi kalle inn minst én søker fra hver av disse gruppene til intervju. For at du skal bli vurdert som søker i disse gruppene (bli positivt særbehandlet), må du oppfylle visse krav. Du kan lese mer om positiv særbehandling på <a href=\"http://arbeidsgiver.difi.no/positivsaerbehandling\" rel=\"nofollow\">arbeidsgiverportalen</a>.<br /> ",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://jobs.strawberryhotels.com/jobs/248020-kokk-chef?ref=arbeidsplassen",
-            "applicationDue": "2023-07-30",
+            "applicationUrl": "https://dfo-notolletaten.contactrh.com/jobs/14035/41660577/nb_NO",
+            "applicationDue": "2023-06-30T00:00:00Z",
             "occupationCategories": [
                 {
-                    "level1": "Reiseliv og mat",
-                    "level2": "Kokk"
+                    "level1": "Sikkerhet og beredskap",
+                    "level2": "Politi, fengsel og toll"
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/a7febd87-ac6d-4205-9971-dd5fe81706e0",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/e020087e-6d57-44e9-8755-e1fee2af2168",
             "employer": {
-                "name": "Quality Hotel Saga",
+                "name": "Tolletaten",
                 "orgnr": null,
                 "description": null,
                 "homepage": null
             },
-            "engagementtype": "Fast",
+            "engagementtype": null,
             "extent": "Heltid",
             "starttime": null,
             "positioncount": "1",
-            "sector": "Privat"
+            "sector": "Offentlig"
         },
         {
-            "uuid": "600393eb-6330-4bf1-917b-40b9966087cf",
-            "published": "2023-06-09T09:51:39.991134Z",
-            "expires": "2023-08-01T23:00:00Z",
-            "updated": "2023-06-09T09:51:40.456273Z",
+            "uuid": "e57eeda2-90eb-42d6-91ea-66e592e634c9",
+            "published": "2023-06-13T09:31:15.040859Z",
+            "expires": "2023-06-28T17:59:59Z",
+            "updated": "2023-06-13T09:31:15.676013Z",
             "workLocations": [
                 {
-                    "country": "GRØNLAND",
+                    "country": "NORGE",
                     "address": null,
-                    "city": null,
-                    "postalCode": null,
-                    "county": null,
-                    "municipal": null
+                    "city": "MOSS",
+                    "postalCode": "1534",
+                    "county": "VIKEN",
+                    "municipal": "MOSS"
                 }
             ],
-            "title": "Carpenters wanted for exciting projects in Greenland",
-            "description": "<p>Kaveo Byggeservice ApS are currently looking for ambitious and skilled carpenters for work north of the arctic circle. </p><p>We are a busy, diligent and growing company who has the pleasure of working with some of the biggest and most well grounded construction companies in Greenland. </p><p></p><p>Greenland is a beautiful country and a place every human being should at least visit once in their life. It is also a place that requires a special kind of deligence and thick skin so please note that its hard work, new people and new experiences and weather from the moment you arrive. </p><p></p><p>Current projects: </p><p></p><p>- 60 apartments in the town of Aasiat</p><p>- The construction of a new airport i the city of Ilulissat.</p><p>- 10 College dorms</p><p></p><p> What you can expect:</p><p>- Payed for plane tickets to and from Greenland</p><p>- Accomodation with your own room, washing facilities, kitchen and wifi</p><p>- Guidance in taxes</p><p>- An experience for life</p><p>- A salary that follows experience</p><p></p><p>What we expect:</p><p>- You have a carpenters/woodworkers degree</p><p>- You have an open mind and a kind person</p><p>- You are willing to work a lot of hours in times of forthcoming deadlines</p><p></p><p></p><p>If you can cross the &#34;boxes&#34; listed above, dont hesitate to send your resumé and a description of yourself to Felix Madsen on info&#64;kaveo.dk or a text on &#43;45 55203445</p><p></p>",
+            "title": "Seniorrådgiver til grensedivisjonens fagstab",
+            "description": " <br /><strong>Vil du være med på å lede utviklingen av operativt materiell i Tolletaten?</strong><br /> <br /> <br />Tolletatens grensedivisjon er organisert i syv geografiske områder med ansvar for fysisk kontroll og ekspedisjon ved tollstedene, en avdeling med ansvar for operative fellesfunksjoner, en fagstab og en styringsstab.<br />Vi søker nå en faglig dyktige og utviklingsorientert teamleder til å lede og koordinere prosesser knyttet til forvaltning og utvikling av operativt materiell i Tolletaten.<br /> <br />Stillingen er plassert i grensedivisjonens fagstab. Enheten har ansvar for overordnet koordinering og utvikling av grensedivisjonens fagområder, og har ansvar for helhetlig drift og forvaltning av kontrollutstyr, sambandsutstyr, kjøretøy og fartøy.<br /> <br />Du vil lede et team med dyktige medarbeidere, med ansvar for å fastsette krav og angi faglige rammer for bruk av operativt materiell, samt ha ansvar for å anskaffe, forvalte og avhende, og utøve eierskapsforvaltning i hele materiellets levetid.<br /> <br />Du må ha stort engasjement for effektivisering gjennom standardisering og utvikling, og være i stand til å sette deg inn i og forstå hvordan Tolletaten benytter materiell i den operative virksomheten. Det forventes høy grad av brukerorientering, hvor effektive og moderne verktøy skal bidra til trygg, effektiv og mobil fysisk kontroll - over hele landet.<br /> <br /><strong>Sentrale arbeidsoppgaver:</strong><ul><li>følge opp og koordinere enhetens ansvar og oppgaver knyttet til operativt materiell</li><li>bidra i strategi-, plan- og budsjettprosesser, herunder utarbeidelse av langtidsplaner, budsjettinnspill og satsingsforslag</li><li>forvalte og videreutvikle styrende dokumenter og prosesser</li><li>utarbeide behovsanalyser, utredninger og evalueringer</li><li>følge opp rammeavtaler/kontrakter, og bidra i prosesser for anskaffelser i samarbeid med Anskaffelsesavdelingen</li><li>delta som fagansvarlig i kategoriteam, herunder utarbeidelse av tekniske og funksjonelle krav</li><li>oppfølging av leverandører, samarbeidsaktører og brukere</li><li>deltakelse på nasjonale og internasjonale fora/møter, innhente erfaring og kunnskap fra andre</li></ul><br /><strong>Kvalifikasjoner:</strong><ul><li>høyere relevant utdanning på masternivå. Bachelorgrad og svært god realkompetanse kan erstatte kravet om mastergrad. I spesielle tilfeller kan Tolletatens etatsutdanning og svært god realkompetanse erstatte kravet om bachelorgrad</li><li>solid erfaring med forvaltning og/eller anskaffelse av materiell, og god teknisk forståelse</li><li>erfaring med strategi-, plan- og budsjettprosesser</li><li>generell god IT-forståelse og kunnskap om MS Office 365</li><li>svært god skriftlig og muntlig fremstillingsevne</li></ul><br /><strong>Det er ønskelig med:</strong><ul><li>erfaring fra offentlig sektor</li><li>erfaring med anskaffelser (behov, krav, evaluering) og kategoristyring</li><li>erfaring fra prosjekt- og/ eller utviklingsarbeid</li><li>erfaring som leder /teamleder</li></ul><br /><strong>Personlige egenskaper:</strong><ul><li>du er god til å lede og drive prosesser for å nå ønskede målsetninger</li><li>du er strukturert og analytisk, og flink til å dokumentere skriftlig</li><li>du har fokus på effektivisering og forbedring</li><li>du har god kommunikasjons-, og formidlingsevne</li><li>du er teamorientert og liker å samarbeide, også på tvers av fagområder, for å finne de beste løsningene i fellesskap</li></ul><br /><strong>Vi kan tilby deg:</strong><ul><li>en spennende stilling med utviklingsmuligheter</li><li>fast ansettelse som seniorrådgiver med årslønn mellom kr. 650 000 – 800 000, avhengig av kvalifikasjoner. For særlig godt kvalifiserte søkere kan høyere lønn vurderes.</li><li>pensjons-, forsikrings- og låneordninger i Statens pensjonskasse</li><li>gode arbeidstidsbetingelser, med fleksitid, trening i arbeidstiden og muligheten for hjemmekontor</li><li>arbeidssted i nye lokaler i Moss. Noe reisevirksomhet må påregnes</li></ul><br /> Du må kunne sikkerhetsklareres for hemmelig og levere uttømmende politiattest ved tilbud om ansettelse.<br /> <br />Nærmere opplysninger om stillingen ved avdelingsdirektør Dag R Jørstad, tlf. 90558270<br /> <br /> <br /> <br /><strong>Bakgrunnssjekk</strong><br />Vi benytter Semac bakgrunnssjekk på aktuelle kandidater.<br /> <br /><strong>Krav til søknaden</strong><br />Fyll ut feltene &#34;Utdannelse&#34; og &#34;Arbeidserfaring&#34; og last opp relevante vitnemål og eventuelle attester.<br /> <br /><strong>Inkludering og mangfold</strong><br />Tolletaten er opptatt av mangfold og ønsker å være en inkluderende arbeidsplass som gjenspeiler befolkningen. Vi har behov for medarbeidere med ulike bakgrunner, erfaringer, kompetanser og perspektiver for å løse vårt samfunnsoppdrag. Vi oppfordrer derfor alle kvalifiserte kandidater til å søke. Dersom det er kvalifiserte kandidater med funksjonsnedsettelse, hull i CV-en eller innvandrerbakgrunn, vil vi kalle inn minst én søker fra hver av disse gruppene til intervju. For at du skal bli vurdert som søker i disse gruppene (bli positivt særbehandlet), må du oppfylle visse krav. Du kan lese mer om positiv særbehandling på <a href=\"http://arbeidsgiver.difi.no/positivsaerbehandling\" rel=\"nofollow\">arbeidsgiverportalen</a>.<br /> ",
             "sourceurl": null,
-            "source": "EURES",
-            "applicationUrl": null,
-            "applicationDue": "02.08.2023",
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://dfo-notolletaten.contactrh.com/jobs/14035/41660564/nb_NO",
+            "applicationDue": null,
             "occupationCategories": [
                 {
-                    "level1": "Håndverkere",
-                    "level2": "Tømrer og snekker"
+                    "level1": "Sikkerhet og beredskap",
+                    "level2": "Politi, fengsel og toll"
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/600393eb-6330-4bf1-917b-40b9966087cf",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/e57eeda2-90eb-42d6-91ea-66e592e634c9",
             "employer": {
-                "name": "Kaveo",
+                "name": "Tolletaten",
                 "orgnr": null,
                 "description": null,
                 "homepage": null
             },
-            "engagementtype": "Fast",
+            "engagementtype": null,
             "extent": "Heltid",
             "starttime": null,
             "positioncount": "1",
-            "sector": "Privat"
+            "sector": "Offentlig"
         },
         {
-            "uuid": "9839e055-a7e3-49ef-a756-d01a110fc23f",
-            "published": "2023-06-09T09:48:37.991Z",
-            "expires": "2023-07-02T19:59:59Z",
-            "updated": "2023-06-09T11:53:15.124467Z",
+            "uuid": "056f2d16-6939-4e0b-8049-948a6ee1fe67",
+            "published": "2023-06-13T09:13:23.288636Z",
+            "expires": "2023-06-15T19:59:59.189Z",
+            "updated": "2023-06-13T11:14:15.82998Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "Hovevegen 6",
-                    "city": "SOGNDAL",
-                    "postalCode": "6856",
+                    "address": "Flesland (BGO), Flyplassvegen, Bergen, Norge",
+                    "city": "BLOMSTERDALEN",
+                    "postalCode": "5258",
                     "county": "VESTLAND",
-                    "municipal": "SOGNDAL"
+                    "municipal": "BERGEN"
                 }
             ],
-            "title": "To ledige deltidsstillinger på Kid Interiør i Sogndal!",
-            "description": "<p><strong>Er du tillitsvekkende, blid og inspirerende i kontakt med kunder? Trives du med salg? Er du i tillegg interessert i interiør og trender?</strong></p><p>Vår butikk på Sogningen Storsenter søker to nye butikkmedarbeidere i 11% stilling. Ta kontakt med oss, da vel!</p><p><br />Kid er en inspirerende og moderne butikk, med et bredt og spennende vareutvalg innen interiør. Som medarbeider er du vårt viktigste ledd mellom vår innbydende butikk og kunden, hvor ditt viktigste oppdrag er å skape gode kundeopplevelser gjennom å inspirere og å veilede.</p><p><strong>Dine hovedoppgaver vil være:</strong></p><ul><li>Salg og kundeservice</li><li>Klargjøring til kampanje, vareplassering og varepåfylling</li><li>Annet forefallende butikkarbeid</li></ul><p>Du vil jobbe i en levende butikk med stadige fornyelser. Dette gjør at stillingen er fysisk krevende og at hverdagen er preget av høyt tempo. Vi er derfor avhengige av dedikerte og fleksible medarbeidere som tar ansvar og som klarer å bidra med alle butikkrelaterte oppgaver.</p><p><strong> Våre forventninger til deg</strong></p><p>Aller viktigst -du må ønske å jobbe i butikk og med salg! I tillegg har du gjerne erfaring fra butikk, men det er ikke et krav. Du er utadvendt, finner det naturlig å ta kontakt med kundene og har et godt humør som smitter over både på kunder og kolleger. Du har det gøy når du er på jobb! Samtidig tar du ditt ansvar på alvor og sørger alltid for at oppgaver blir løst med høy standard og på en slik måte det var bestemt.</p><p>Det aller viktigste ansvaret du vil ha som butikkselger hos oss vil være å kommunisere godt med alle våre kunder. Du må derfor snakke flytende norsk for å jobbe i våre butikker.</p><p>Stillingen inngår i en arbeidsplan hvor arbeidstiden er både morgen, kveld og i helger.</p><p><br /><strong>Vi tilbyr:</strong></p><ul><li>En utfordrende stilling i en kjede med spennende produkter</li><li>Gode karriere- og utviklingsmuligheter for de som vil og kan</li><li>En «levende» bransje med store variasjoner og hvor den enkeltes innsats teller</li><li>Deltidsstillinger som fint kan kombineres med skole og utdanning</li><li>Et nettverk av butikker over hele landet som også gir muligheter for å jobbe i andre avdelinger</li><li>Et bonussystem for alle faste medarbeidere som er ansatt over 20%</li></ul><p>For spørsmål om stillingen, ta kontakt med butikkleder.</p><p><strong>NB!</strong> Vennligst ikke send søknaden din pr e-post til oss. Kun søknader som sendes via vår rekrutteringsportal vil bli vurdert. Gå inn på karrieresiden vår <strong>karriere.kid.no </strong>for å sende oss en søknad.</p><p></p>",
-            "sourceurl": null,
+            "title": "Rental sales agent",
+            "description": "<p><br /></p><p><strong>Arbeidssted: </strong>Bergen lufthavn</p><p><br /></p><p><strong>Arbeidstid: </strong>Varierende arbeidstid (dag, helg, kveld)</p><p><br /></p><p><strong>Oppstart: </strong>Så snart som mulig - intervjuer kjøres forløpende</p><p><br /></p><p><strong>Stillingsprosent: </strong>Tilkallingsvikar - med mulig for mye arbeid i høysesong</p><p><br /></p><p><br /></p><p><strong>Arbeidsoppgaver</strong></p><p>Som kombinert utleierepresentant er du ansvarlig for å levere våre tjenester på en best mulig måte til våre kunder. Hverdagen består av utstrakt kundekontakt både ansikt til ansikt og pr. telefon og mail. Vi leverer en service hvor kundens behov alltid er i fokus. Videre er du også ansvarlig for at våre leiebiler er klargjort og vasket i henhold til vår standard. Du har også ansvar for produkter (barneseter, skistativ mm), skaderegistrering, oppfølging av servicer og dekkomlegg. Logistikk, klargjøring, salg og kundeservice er kjernen i hverdagen. </p><p><br /></p><ul><li>Klargjøring av utleiebiler (vask mm)</li><li>Oversikt og kontroll på skader, servicestatus og dekklager</li><li>Skifte dekk ved dekk omlegg</li><li>Yte utmerket kundeservice i alle situasjoner </li><li>Presentasjon og innsalg av våre produkter til kunde på en best mulig måte</li><li>Håndtere telefon og epost henvendelser </li><li>Organisere daglige reservasjoner i forhold til tilgjengelig flåte</li><li>Rapportering og annet forefallende kontorarbeid</li></ul><p> </p><p><br /></p><p><strong>Kvalifikasjoner</strong></p><p>Som kombinert utleierepresentant er du den våre kunder møter hver dag. Du representerer Sixt Bilutleie og er genuint opptatt av service og trives med kundekontakt. Vi stiller høye krav til våre produkter og hvordan vi presenterer disse, med ett ønske om å overgå kundens forventinger. Du har også ansvar for standarden på produktet vi leverer. Hverdagen styres av kundens behov, og din evne til å arbeide hurtig og nøyaktig er avgjørende for den kvalitet vi leverer. Ved å levere en premium opplevelse, er du med å bygger Norges beste bilutleiekjede.    </p><p><br /></p><ul><li>Minimum førerkort klasse B (manuelt og automatgir)</li><li>Plettfri vandel (Politiattest)</li><li>Genuin serviceinnstilling og gode mellommenneskelige ferdigheter</li><li>Gode salgs ferdigheter</li><li>Hurtig og nøyaktig med stor arbeidskapasitet (også ved fysisk arbeid)</li><li>Strukturert og evne til å styre logistikk i en stadig skiftende/hektisk hverdag</li><li>Flytende norsk / engelsk muntlig og skriftlig</li><li>Datakunnskaper (Microsoft Office)</li></ul><p><br /></p><p><strong>Vi tilbyr</strong></p><p><br /></p><p>Som ansatt i Sixt Bilutleie vil du være del av en organisasjon med flinke kolleger som alle ønsker å yte det beste for våre kunder. Som del av et team vil din innsats utgjøre en forskjell, og verdsettes deretter. Vi har gode trenings- og utvekslingsprogram som alle våre ansatte følger. For den rette vil det også være utviklingsmuligheter innen organisasjonen.</p><p> </p>",
+            "sourceurl": "https://job.mojob.io/20190/",
             "source": "IMPORTAPI",
-            "applicationUrl": "https://karriere.kid.no/jobs/248087-to-ledige-deltidsstillinger-pa-kid-interior-i-sogndal?ref=arbeidsplassen",
-            "applicationDue": "2023-07-02",
+            "applicationUrl": "https://job.mojob.io/20191/?utm_id=12418&utm_campaign=12418&utm_medium=job_share&utm_source=nav&utm_term=Kombinert+Utleierepresentant&utm_content=20191",
+            "applicationDue": "15.06.2023",
             "occupationCategories": [
                 {
-                    "level1": "Salg og service",
-                    "level2": "Salg, butikk- og varehandel"
+                    "level1": "Kontor og økonomi",
+                    "level2": "Kontor, forvaltning og saksbehandling"
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/9839e055-a7e3-49ef-a756-d01a110fc23f",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/056f2d16-6939-4e0b-8049-948a6ee1fe67",
             "employer": {
-                "name": "SOGNINGEN STORSENTER",
+                "name": "Sixt bilutleie Bergen",
                 "orgnr": null,
-                "description": "Kid Interiør er Nordens største tekstil- og interiørkonsern. Konsernet består av kjedene Kid Interiør med en butikkportefølje av ca 150 butikker i Norge, og Hemtex med ca 140 butikker i Sverige, Finland og Estland. Begge kjedene driver i tillegg sine egne nettbutikker som er i sterk vekst.  ...",
+                "description": "<p>Sixt Bilutleie er en internasjonal bilutleiekjede med 4500 utleiestasjoner i 118 land. I Norge har vi 80 utleveringssteder og er tilstede på alle de store flyplassene. Sixt i Norge har mer enn 50 års erfaring med bilutleie og har drevet en landsdekkende kjede i 20 år. Sixt er verdens største BMW kunde og er kjent for å tilby premium biler i hele verden. Sixt er en premium utleiekjede med sterk fokus på service, kvalitet og sikkerhet.</p>",
                 "homepage": null
             },
             "engagementtype": "Fast",
@@ -632,39 +349,39 @@
             "sector": "Privat"
         },
         {
-            "uuid": "f72cce07-c090-4263-bc69-186a95bbd3e4",
-            "published": "2023-06-09T09:45:10Z",
-            "expires": "2023-07-09T09:47:57Z",
-            "updated": "2023-06-09T11:49:15.137468Z",
+            "uuid": "aad60a5d-4b6d-4081-90bb-da4fd5bcd717",
+            "published": "2023-06-13T09:02:39Z",
+            "expires": "2023-07-13T09:28:31Z",
+            "updated": "2023-06-13T11:29:15.724759Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "Trygve Lies Plass 1",
-                    "city": "OSLO",
-                    "postalCode": "1051",
-                    "county": "OSLO",
-                    "municipal": "OSLO"
+                    "address": null,
+                    "city": "VORMEDAL",
+                    "postalCode": "5545",
+                    "county": "ROGALAND",
+                    "municipal": "KARMØY"
                 }
             ],
-            "title": "Salg- og servicemedarbeider (Ringevikar) - Actic Furuset",
-            "description": "<p><em>Actics visjon er å skape et sunnere samfunn gjennom trening. Vi ble grunnlagt i Sverige i 1981, og er i dag en av de ledende aktørene i treningsmarkedet i Norden. Actic tilbyr lett tilgjengelig og inspirerende trening på mer enn 170 treningsfasiliteter med rundt 200 000 medlemmer i Sverige, Norge, Tyskland og Østerrike. Vi tilbyr trening innendørs, utendørs og digitalt gjennom treningsstudio, personlig trening, gruppetrening og bad. Våre verdier er passion, customer focus, performance og teamwork. </em><br /><em></em><br />Vi søker en salg- og servicemedarbeider som ringevikar på Actic Furuset, med oppstart fortløpende.</p><p><strong>Salg- og servicemedarbeider</strong><br /></p><p>Har du stor interesse for mennesker og service? Drives du samtidig av trening og helse? Vi søker nå 1-2 salg- og servicemedarbeidere til Actic Furuset for å styrke opp vårt team. <br /></p>  <p>I rollen jobber du for å gjøre senteret til en naturlig del av lokalsamfunnet. Du sørger for å spre glede og energi, og ønsker å skape best mulig kundeopplevelser for våre medlemmer. Som salg- og servicemedarbeider har du varierte oppgaver, som er noe du både mestrer og liker. Du tar ansvar for kundenes behov og utfordringer, samtidig som du liker å prestere og oppnå gode resultater; både individuelt og for arbeidsplassen din. Som salg- og servicemedarbeider tar du også ansvar for at senteret og utstyret er i beste stand, og at renholdet er på topp.</p><p><strong>I rollen vil dine arbeidsoppgaver være å</strong></p><ul><li>Fokusere på å hjelpe nye medlemmer til en god start hos oss gjennom å veilede de og informere om våre arenaer (innetrening, utetrening og vår digitale plattform Actic app) basert på medlemmets mål og forutsetninger</li><li>Selge medlemskap og tilleggsprodukter, som for eksempel PT, sammen med det øvrige teamet på senteret</li><li>Utføre aktivt oppsøkende salg av medlemskap via telefon eller stands/happenings</li><li>Skape gode kundeopplevelser på senteret gjennom å være tilstede, imøtekommende, behjelpelig og spre glede og energi til våre medlemmer</li><li>Holde det rent og pent, både i resepsjonsområde og i studio</li><li>Ta vare på eksisterende medlemmer</li></ul><p><strong>For å lykkes i rollen har du</strong></p><ul><li>Erfaring med salg og kundeservice</li><li>En stor interesse for mennesker og service</li><li>Gjerne forkunnskaper om trening og helse</li><li>Vi ser helst at du er myndig </li></ul><p>Som person er du nysgjerrig og sosial. Du er engasjert og bygger lett relasjoner. Du bryr deg om dine kolleger og våre medlemmer, og er en lagspiller som er flink til å samarbeide med andre. Videre er du målbevisst og har høy arbeidsmoral. </p><p><strong>Hva kan vi tilby deg? </strong>Et dynamisk arbeidsmiljø med mye glede og passion. Du får trygge ansettelsesvilkår, og selvfølgelig tilgang til hele vårt treningstilbud- inne, ute og digitalt! </p><p>Vi behandler søknader fortløpende</p><p> </p>",
+            "title": "Har du et ønske om å jobbe med barn? Ung jente søker fleksible assistenter!",
+            "description": "<p>Hei på deg!</p><p>Jeg er en jente på 2 år som bor på Karmøy med mamma, moa (medmor) og mine to trillingsøsken. Jeg trenger assistenter om natten, da jeg er svært urolig og kan være våken flere timer i strekk. Jeg søker derfor trygge assistenter på våken nattevakt.</p><p>Jeg har CP (cerebral parese), og gjennom en knapp på magen min får jeg mat kontinuerlig. Hos oss er det høyt tempo og ting kan skje fort. Det er derfor veldig viktig at du som assistent er trygg og ikke er redd for å ta i et tak.</p><p>Hjemme trenger mamma og moa også noe hjelp. Du må derfor regne med å gjøre husarbeid både på natt og på ettermiddag, samt å hjelpe til med matlaging på ettermiddagene. Jeg er veldig glad i sang og musikk, så om du liker å synge for meg blir jeg glad. Det er viktig for meg at du er en leken person som liker å leke og tilbringe tid med meg og mine søsken. Som min assistent vil du være mine armer og bein, og hjelpe meg med f.eks. å leke med søsknene mine. </p><p>Høres dette ut som noe for deg? Da håper jeg du vil søke på stillingen og bli en del av mitt flotte team!</p><p><strong>Stillingsstørrelse og arbeidstid</strong></p><p>Jeg søker nå etter fleksible tilkallingsvikarer som har et stort ønske om å jobbe hos meg.</p><p>Arbeidstiden for stillingen vil være 22.00-07.00 i hverdager og 22.00-08.00 i helger. </p><p>Det må påberegnes arbeid i helligdager, helg og fellesferie. Jeg trenger også at du kan bli med meg dersom jeg skal innlegges på sykehus, eller hvis jeg skal på ferie med familien min.</p><p><strong>Arbeidsoppgaver </strong></p><ul><li>Personlig stell, f.eks. bading, bleieskift og stell av knapp i magen</li><li>Hjelp til forflytning</li><li>Observere meg og trygge meg på natten når jeg våkner</li><li>Medisinhåndtering</li><li>Gi meg mat i knapp</li><li>Oppfølging, kos og lek med søsken</li><li>Bruke ASK (alternativ supplerende kommunikasjon) i samhandling med meg</li></ul><p><strong>Kvalifikasjoner </strong></p><ul><li>Fleksibel og kan stille på kort varsel ved behov</li><li>Personlig egnethet og kjemi vektlegges</li><li>Et brennende ønske om å jobbe med barn</li><li>Evne til å skape gode relasjoner</li><li>Beherske norsk muntlig og skriftlig</li><li>Fordel med førerkort klasse B, men ikke et krav</li></ul><p><strong>Personlige egenskaper </strong></p><ul><li>Pålitelig</li><li>Tålmodig</li><li>Ansvarsbevisst, pliktoppfyllende og lærevillig</li><li>Leken, samt glad i sang og musikk</li><li>Trygg og omsorgsfull</li><li>Har et ønske om å stå i stillingen over tid for å skape forutsigbarhet for familien</li></ul><p>Vi intervjuer aktuelle kandidater fortløpende, og ansetter så raskt vi finner riktig kandidat.</p><p><strong>Vi tilbyr:</strong></p><ul><li>En meningsfylt jobb</li><li>Teoretisk og praktisk opplæring</li><li>       Relevante kurs</li><li>       Tett oppfølging og samarbeid med lokal BPA koordinator</li><li>Erfaring fra helse- og omsorgssektoren og arbeid med barn</li></ul>",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://career.actic.no/jobs/2904605-salg-og-servicemedarbeider-ringevikar-actic-furuset/applications/new?promotion=692853-nav-no",
+            "applicationUrl": "https://miogruppen.teamtailor.com/jobs/2911582-har-du-et-onske-om-a-jobbe-med-barn-ung-jente-soker-fleksible-assistenter/applications/new?promotion=695571-nav-no",
             "applicationDue": null,
             "occupationCategories": [
                 {
-                    "level1": "Kultur og kreative yrker",
-                    "level2": "Sport og idrett"
+                    "level1": "Helse og sosial",
+                    "level2": "Helse"
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/f72cce07-c090-4263-bc69-186a95bbd3e4",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/aad60a5d-4b6d-4081-90bb-da4fd5bcd717",
             "employer": {
-                "name": "Actic Norway",
+                "name": "Mio BPA",
                 "orgnr": null,
-                "description": null,
-                "homepage": "https://career.actic.no"
+                "description": "<p>Mio BPA er en av Norges største BPA-leverandører. Vi har lang og bred erfaring, og kan levere tjenester i 116 norske kommuner. Vi har som mål å levere Norges beste BPA-tjenester, og tilbyr skreddersydde BPA-løsninger i henhold til den enkeltes behov. Det er viktig for oss å kunne gi våre kunder den aller beste tjenesten og at vi er den beste arbeidsplassen for våre medarbeidere. Mio BPA er en del av Mio-konsernet som er 100 prosent norskeid.</p><p>Vi jobber alltid ut ifra disse verdiene: <br /></p><p><strong>• Respektfull:</strong> Vi er åpne og møter andre med vennlighet og forståelse. Alle vi møter skal føle seg sett, anerkjent for den de er og verdifulle.</p><p><strong>• Pålitelig: </strong>Vi er til å stole på og holder det vi lover. Vi opptrer på en måte som gir tillit og trygghet.</p><p><strong>• Modig:</strong> Vi utgjør en forskjell for hvert enkelt menneske vi møter. Vi gir mennesker et bedre liv og frihet til å leve slik de vil.</p>",
+                "homepage": "https://miogruppen.teamtailor.com"
             },
             "engagementtype": null,
             "extent": null,
@@ -673,115 +390,312 @@
             "sector": null
         },
         {
-            "uuid": "062c8a45-1ba4-4108-8c93-1af4f711009d",
-            "published": "2023-06-09T09:38:34.321708Z",
-            "expires": "2023-08-30T23:00:00Z",
-            "updated": "2023-06-09T09:38:34.759696Z",
+            "uuid": "2174710b-e463-426d-8330-b2e936b030df",
+            "published": "2023-06-13T08:58:02Z",
+            "expires": "2023-07-13T09:02:01Z",
+            "updated": "2023-06-13T11:03:16.012759Z",
             "workLocations": [
                 {
-                    "country": "TSJEKKIA",
-                    "address": null,
-                    "city": null,
-                    "postalCode": null,
-                    "county": null,
-                    "municipal": null
+                    "country": "NORGE",
+                    "address": "Kleverveien 3",
+                    "city": "VESTBY",
+                    "postalCode": "1540",
+                    "county": "VIKEN",
+                    "municipal": "VESTBY"
                 }
             ],
-            "title": "Insurance Claims Analyst with Norwegian",
-            "description": "<p>This will be your future team:</p><p>You will become a part of a large team of open-minded professionals with diverse backgrounds and experience. You will be taking part of a dynamic work environment and have colleagues from all over the globe. The Accenture world is full of changes, so we are always ready to support our colleagues when needed – our open office space as well as online communication channels enable us to do this easily and efficiently in our hybrid work model. Working with multiple stakeholders our team needs to be adaptable to unexpected situations, which can be a challenge - yet it is precisely this adaptability that gives us an opportunity to develop and grow and makes our life here more exciting!</p><p></p><p>This will be your future role:</p><p>As our new Insurance Claims Analyst you will get opportunities for applying your analytical thinking, problem solving, and communication skills while working in an international environment. You will in the role receive extensive internal trainings to ensure that you will be fully equipped to take on the role and become part of the next generation of insurance experts.</p><p> </p><p>In addition to this, you will in this role be:  </p><p>•\tNavigating claimants when requesting damage compensation as well as ad hoc support towards the customers.</p><p>•\tInvestigating the details of claimants’ compensation requests by identifying and requesting relevant information and documents confirming the details of the loss </p><p>•\tHandling and resolving customer claims as per company procedures and policies.</p><p>•\tGathering and storing loss data according to internal compliance regulations</p><p>•\tTaking proactive steps to effectively meet customer expectations by demonstrating high quality, professionalism, and accuracy</p><p>•\tMaking decisions on best solutions for the claimant and insured company</p><p> </p><p>Qualifications</p><p>To be successful in this role, it is expected that you have:</p><p>•\tExcellent knowledge of Danish, Norwegian, Finnish, Swedish, or Estonian as well as the English language, good communication skills both in written and verbal</p><p>•\tAbility to work independently, organize, and prioritize own tasks effectively</p><p>•\tThe ability to strengthen a culture of cooperation between team members to ensure high professional standards and a positive atmosphere, as well as encouraging knowledge sharing</p><p>•\tGeneral computer literacy – familiarity with the MS Office Package.</p><p> </p><p>Previous insurance experience is not required but an advantage, graduates are encouraged to apply</p><p> </p><p>What you will receive </p><p>•\tA position in the world’s leading global company</p><p>•\tInclusive and diverse environment</p><p>•\tProfessional growth based on performance</p><p>•\tContinuous training</p><p>•\tHybrid working model - a combination of home office and working on-site</p><p>•\tWide range of benefits including: 5 weeks of holiday, 3 sick days, meal vouchers, recreation/wellness vouchers, pension/life insurance contribution, work from home contribution, discounts for employees, laptop, psychological support hot link, etc.</p><p>•\tFor candidates outside of Czech Republic we provide relocation support.</p><p>Skills: </p><p>Education, work experience, language, certificate etc.\tNorwegian language fluent, general computer literacy - MS Office </p><p>Working hours and place of work\t40 hours/week</p><p>Start date (and if necessary, End date): ASAP - flexible</p><p>Salary: 42.000-45.000 CZK &#43; 5.000 CZK language bonus (gross)</p><p>\t\t\t\t\t</p><p>Application</p><p>How to apply? \thttps://www.accenture.com/cz-en/careers/jobdetails?id&#61;R00008619_en&amp;title&#61;Insurance&#43;Customer&#43;Service&#43;Agent&#43;with&#43;Norwegian</p><p></p>",
-            "sourceurl": "https://www.accenture.com/cz-en/careers/jobdetails?id=R00008619_en&title=Insurance+Customer+Service+Agent+with+Norwegian",
-            "source": "EURES",
-            "applicationUrl": null,
-            "applicationDue": "31.08.2023",
+            "title": "Vi søker tømrere i Vestby!",
+            "description": "<p>Vi utvider våre avdelinger i Vestby og ser etter dyktige og selvstendige tømrere, med utvidet ansvar og store muligheter for å påvirke egen hverdag.</p><p> </p><p>I FBS er vi et lag hvor vi bryr oss om hverandre. Våre verdier er effektivitet, pålitelighet og omsorg. <strong>Effektivitet</strong>: Vi lever av lønnsomhet og fornøyde kunder. <strong>Pålitelighet</strong>: Det er grunnleggende for oss å stole på hverandre. <strong>Omsorg</strong>: Å sette seg inn i hvordan andre har det er avgjørende for tillitt og trivsel.</p><p>Høres dette ut som noe for deg? Liker du i tillegg å løse problemer, høyt tempo, en variert hverdag og å komme deg rundt på flere oppdrag i løpet av kort tid? Kanskje du ønsker å utvikle deg videre? Vi kan da tilby deg en arbeidsplass med interessante og varierte arbeidsoppgaver, karrieremuligheter, gode kollegaer og konkurransedyktige betingelser.</p><p> </p><p>Våre kunder stiller strenge krav og det er derfor viktig at du er proaktiv og løsningsorientert.</p><p> </p><p><strong>Personlige egenskaper vi er på utkikk etter:</strong></p><ul><li>Positiv og liker å jobbe med andre mennesker</li><li>Ryddig og selvstendig</li><li>Opptatt av kvalitet og effektivitet</li><li>Serviceinnstilt</li></ul><p> </p><p><strong>Arbeidsoppgaver:</strong></p><p>Som tømrer vil dine arbeidsoppgaver være varierte og du må kunne utføre generelt tømrerarbeid innen alt fra rivning til gjenoppbygging etter små og store skader. Du må kunne jobbe selvstendig, men også sammen med andre.</p><p><strong>Ønskede kvalifikasjoner:</strong></p><ul><li>Erfaring fra tilsvarende arbeidsoppgaver</li><li>Fagbrev som tømrer eller tilsvarende</li><li>Muntlig og skriftlig norsk er et <strong>absolutt krav</strong> </li><li>Førerkort klasse B er et <strong>absolutt krav</strong> </li></ul><p> </p><p>Foruten de faglige kvalifikasjonene er din <strong>fleksibilitet, pålitelighet </strong>og <strong>stå-på-evne</strong> det viktigste vi ser etter.</p><p> </p><p><strong>Vi tilbyr:</strong></p><ul><li>Konkurransedyktige betingelser</li><li>Forsikrings- og pensjonsordninger</li><li>Et godt arbeidsmiljø med muligheter for personlig utvikling</li><li>Bil, verktøy og telefonordning tilpasset deg som håndverker</li></ul><p> </p><p>Frøiland Bygg Skade AS er en av Norges største aktører innen skadeservice og servicehåndverk. Vi er i sterk vekst og trenger flere dyktige kollegaer som vil være med å utvikle selskapet videre. Det er ingen hemmelighet at dette yrket er mannsdominert, og vi synes bare det er positivt om jenter også søker!</p><p> </p><p>Si ifra om du har noen spørsmål :)</p>",
+            "sourceurl": null,
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://karriere.fbs.no/jobs/2911567-vi-soker-tomrere-i-vestby/applications/new?promotion=695549-nav-no",
+            "applicationDue": null,
             "occupationCategories": [
                 {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Bank finans forsikring"
+                    "level1": "Håndverkere",
+                    "level2": "Tømrer og snekker"
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/062c8a45-1ba4-4108-8c93-1af4f711009d",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/2174710b-e463-426d-8330-b2e936b030df",
             "employer": {
-                "name": "Accenture Services",
+                "name": "Frøiland Bygg Skade AS",
                 "orgnr": null,
-                "description": null,
-                "homepage": "https://www.accenture.com/cz-en"
+                "description": "<p><em>Frøiland Bygg Skade AS er en av Norges største aktører innen skadeservice og servicehåndverk. Vi er fra 2021 en del av Oleter Group AB. Sammen bygger vi gruppen videre som et sterkt skandinavisk konsern innen skadeservice. I Norge kjøpte vi i 2022 HS Skadeservice AS, Midt-Norge Skadeservice AS og Løvoll AS.</em></p>",
+                "homepage": "https://karriere.fbs.no"
             },
-            "engagementtype": "Fast",
-            "extent": "Heltid",
+            "engagementtype": null,
+            "extent": null,
             "starttime": null,
+            "positioncount": "3",
+            "sector": null
+        },
+        {
+            "uuid": "60017c44-d91f-40bb-bcce-a0fac96584f4",
+            "published": "2023-06-13T08:44:53.400021Z",
+            "expires": "2023-06-30T23:00:00Z",
+            "updated": "2023-06-13T08:44:53.809734Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "Ryggjavegen 24",
+                    "city": "SANDANE",
+                    "postalCode": "6823",
+                    "county": "VESTLAND",
+                    "municipal": "GLOPPEN"
+                }
+            ],
+            "title": "Barnehagelærar/ Barn- og ungdomsarbeidar 70- 100%",
+            "description": "<p>Vi har ledig stilling i perioden 01.08.23   – 14.08.24. Stillinga kan verte auka og forlenga.</p><p></p><p><strong><em>Har du:</em></strong></p><p>-\tLyst å arbeide i barnehage?</p><p>-\tEvt relevant kompetanse?</p><p>-\tPositiv innstilling, er fleksibel og  er samarbeidsvilleg?</p><p>-\tGode norsk-kunnskapar, skriftleg og munnleg?</p><p></p><p>Då ønskjer vi at du søkjer stilling hjå oss. Vi søkjer primært etter pedagog, men andre må gjerne søke på stillinga. Om du har helsefagleg bakgrunn er dette er styrkje. </p><p>Ta gjerne kontakt dersom du er usikker på om du kan søke.</p><p></p><p>Vi kan tilby eit godt arbeidsmiljø og fagleg utvikling!</p><p></p><p>Vi vil vektlegge gode samarbeidsevner, personlege eigenskapar og evt relevant kompetanse ved tilsetjing. </p><p></p><p>Løn etter PBL sin tariff.</p><p></p><p>Meir informasjon om stillinga? Ring til leiar Pernille Holmøy. </p><p></p>",
+            "sourceurl": null,
+            "source": "DIR",
+            "applicationUrl": null,
+            "applicationDue": "2023-06-16T10:00:00.000Z",
+            "occupationCategories": [
+                {
+                    "level1": "Utdanning",
+                    "level2": "Barnehage"
+                }
+            ],
+            "jobtitle": "Barnehagelærer/ barn - og ungdomsarbeider ",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/60017c44-d91f-40bb-bcce-a0fac96584f4",
+            "employer": {
+                "name": "RYGG BARNEHAGE SA",
+                "orgnr": "973546007",
+                "description": "<p><strong><em>Rygg Barnehage ligg idyllisk til på sørsida av Gloppefjorden, ca. 5 min med bil frå Sandane sentrum. Vi har kort veg til både fjæra og fjellområda på Rygg.</em></strong></p><p></p><p><strong><em>Rygg Barnehage er ein privat barnehage som er organisert som eit samvirkeforetak (SA). Det er foreldregruppa som eig og driv barnehagen. Vi har to avdelingar med 18 store plassar på Solsikka og 9 småbarnsplassar på Blåklokka.</em></strong></p><p></p><p><strong><em>Vi er opptatt av å tilby barna eit godt leikemiljø med varierte utfordringar. I 2015 pussa vi opp kjellararealet, og fekk dermed ei ny og moderne avdeling for dei miste på Blåklokka.</em></strong></p><p><strong><em>Vi har eit stort uteareal som er i utvikling. Vi ønskjer å skape eit stimulerande miljø som skapar gode leikemuligheter.</em></strong></p>",
+                "homepage": "https://rygg.barnehage.no/"
+            },
+            "engagementtype": "Vikariat",
+            "extent": "Deltid",
+            "starttime": "2023-08-01T10:00:00.000Z",
             "positioncount": "1",
             "sector": "Privat"
         },
         {
-            "uuid": "e2e47627-fb04-4524-b107-2982f3f4a34f",
-            "published": "2023-06-09T09:01:15.071818Z",
-            "expires": "2023-06-22T17:59:59Z",
-            "updated": "2023-06-09T09:01:16.213327Z",
+            "uuid": "91bd4262-0f8e-4ad3-ac55-fa8a4f87daa1",
+            "published": "2023-06-13T08:42:09.408823Z",
+            "expires": "2023-07-13T19:59:59.998Z",
+            "updated": "2023-06-13T10:48:16.948556Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": null,
+                    "address": "Glittreveien 31, Hakadal, Norge",
+                    "city": "HAKADAL",
+                    "postalCode": "1487",
+                    "county": "VIKEN",
+                    "municipal": "NITTEDAL"
+                }
+            ],
+            "title": "Sosionom, barnevernspedagog",
+            "description": "<p>I mars opprettet vi en helt ny avdeling på den tidligere Glittre klinikken i Nittedal kommune (Oslo område), hvor vi ivaretar asylsøkere med særlige behov for tilrettelegging samt krigsskadde flyktninger. Mottaket drives av Hero Norge på oppdrag fra UDI. Mottaket er døgnbemannet og har det daglige omsorgsansvaret for asylsøkerne på mottaket. På særskilt avdeling jobber vi målrettet for å støtte, veilede og hjelpe flyktningene med å få opprettet kontakt med nødvendige helsetjenester. Vi kartlegger hjelpebehovet og følger opp ved å koordinere kontakten med helsevesenet og sørge for at flyktningene får den hjelpen de trenger og har krav på. Vår jobb er å gi omsorg, trygghet og stabilitet i et nytt og ukjent samfunn for nyankomne flyktninger.</p><p>Dette er en stilling som vil gi deg mulighet til å bruke hele spekteret du sitter inne med som arbeidstaker i helsevesenet, og som lar deg ta vare på hele personen. Vi har behov for sykepleiere, vernepleiere, fysioterapeut, ergoterapeut, sosionom, barnevernspedagog og helsefagarbeidere i forskjellige stillingsbrøker.</p><p>Vi er et stabilt og engasjert team som jobber sammen for å oppnå et best mulig resultat. Vi trenger flere medarbeidere som ønsker å bidra til en trygg og god start her i Norge for våre nyankomne flyktninger.</p><p> </p><p><br /></p><p><br /></p><p>Vi vil vurdere søknader fortløpende og ønsket oppstart er snarest mulig!</p><p><br /></p><p>ARBEIDSOPPGAVER:</p><ul><li>Kartlegging og oppfølging av hver enkelt beboers fysiske og medisinske behov</li><li>Være medansvarlig for at omsorg og helsehjelp som utøves, er i overenstemmelse med avdelingens målsetting.</li><li>Dokumentere gjennom behandlingsplaner og målrettede tiltak og evalueringer.</li><li>Koordinere beboers behandling/tilbud i samarbeid med medarbeidere og beboer.</li><li>Observere beboers tilstand og bedømme, prioritere, iverksette, evaluere og ta ansvar for nødvendige sykepleietiltak, og ved behov kontakte annen ekspertise.</li><li>Holde seg faglig oppdatert.</li><li>Veilede i teamet </li><li>Ansvarsvakter i avdeling på mottaket</li><li>Medansvarlig for at avdelingens ressurser forvaltes forsvarlig</li></ul><p><br /></p><p><strong>KVALIFIKASJONER</strong></p><ul><li>Offentlig godkjent sosionom/ barnevernspedagog </li><li>Relevant bakgrunn, erfaring og egnethet blir sterkt vektlagt</li><li>Gode norskkunnskaper muntlig og skriftlig</li><li>Engelskkunnskaper og annen språkkompetanse er en fordel, og vil bli vektlagt</li><li>Søkere med språkkunnskaper som ukrainsk, russisk, arabisk er ønskelig</li><li>Gjerne erfaring fra flerkulturelt arbeid og med målgruppene er en fordel</li><li>Erfaring fra arbeid med personer med psykiske og/eller fysiske lidelser er en fordel</li><li>Må kunne takle krevende beboersituasjoner</li><li>Grunnleggende datakunnskaper</li></ul><p><br /></p><p><strong>PERSONLIG EGENSKAPER</strong></p><ul><li>Ha respekt for den enkelte beboer</li><li>Ansvarsbevisst </li><li>Fleksibel</li><li>Engasjert</li><li>Lojal</li><li>Motivert til faglig utvikling</li><li>Evne til å arbeide selvstendig og i team</li><li>Ha høy arbeidsmoral</li><li>Bidra til et godt arbeidsmiljø</li><li>Må trives i et aktivt, faglig og spennende miljø</li></ul><p><br /></p><p><strong>Vi tilbyr</strong></p><ul><li>Ansettelse i en seriøs flerkulturell bedrift</li><li>Et uformelt, hyggelig og profesjonelt miljø</li><li>Utfordrende arbeidsoppgaver med gode muligheter for faglig utvikling</li><li>Pensjons- og forsikringsordninger</li><li>Lønn etter tariffavtale</li></ul><p><br /></p><p>I henhold til Utlendingslovens § 97 stilles krav om politiattest for å jobbe i mottak.</p><p>Hero Norge ønsker en personalgruppe som er preget av mangfold, og oppfordrer spesielt personer med innvandrerbakgrunn til å søke. </p><p>Personer som påberoper seg fortrinnsrett må opplyse om dette i sin søknad.</p><p><br /></p><p>«JOBB MED MENING»</p><p><br /></p><p>Hero vil bidra til å gjøre en ny framtid mulig. Vi er til stede i Norge, Sverige og Tyskland og våre tjenester omfatter asylmottaksdrift, undervisning og språktjenester. Vi har over 35 års erfaring fra arbeid med asylsøkere og flyktninger. Våre kjerneverdier er åpenhet, likeverd og profesjonalitet. Vi har et flerkulturelt og mangfoldig arbeidsmiljø, og er en av Norges største aktører innen integrerings- og flyktningarbeid. Vi er i kontinuerlig utvikling og vil gjerne ha flere med oss til å utvikle fremtidens tjenester. <a href=\"https://www.hero.no/\" rel=\"nofollow\">Les mer</a></p>",
+            "sourceurl": "https://job.mojob.io/22419/",
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://job.mojob.io/22420/?utm_id=14487&utm_campaign=14487&utm_medium=job_share&utm_source=nav&utm_term=Sosionom%2C+barnevernspedagog&utm_content=22420",
+            "applicationDue": "13.07.2023",
+            "occupationCategories": [
+                {
+                    "level1": "Utdanning",
+                    "level2": "Forskningsarbeid"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/91bd4262-0f8e-4ad3-ac55-fa8a4f87daa1",
+            "employer": {
+                "name": "Glittre Særbo",
+                "orgnr": null,
+                "description": "<p>Hero er en privat virksomhet som tilbyr tjenester rettet mot målgruppene asylsøkere, flyktninger og innvandrere. Vi er en av de største organisasjonene i Norge innenfor vårt fagfelt. Vi etablerte vårt første asylmottak i 1987 og har siden vært en viktig aktør i utviklingen av det norske mottakssystemet.</p><p><br /></p><p>Som eneste virksomhet i Norge tilbyr vi tjenester helt fra ankomst som asylsøker til Norge, videre gjennom mottaksoppholdet og til integrering i arbeid og utdannelse.</p><p>Foruten drift av ulike typer asylmottak og barnehager, leverer vi tolketjenester og ulike kvalifiseringsprogram til nyankomne innvandrere og bosatte flyktninger.</p>",
+                "homepage": null
+            },
+            "engagementtype": "Sesong",
+            "extent": null,
+            "starttime": null,
+            "positioncount": "4",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "ca9a30b9-bb63-4200-bf51-e8040e24d1a9",
+            "published": "2023-06-13T08:41:35.061904Z",
+            "expires": "2023-07-13T19:59:59.254Z",
+            "updated": "2023-06-13T10:48:15.950298Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "Glittreveien 31, Hakadal, Norge",
+                    "city": "HAKADAL",
+                    "postalCode": "1487",
+                    "county": "VIKEN",
+                    "municipal": "NITTEDAL"
+                }
+            ],
+            "title": "Fysioterapeut, ergoterapeut",
+            "description": "<p>I mars opprettet vi en helt ny avdeling på den tidligere Glittre klinikken i Nittedal kommune (Oslo område), hvor vi ivaretar asylsøkere med særlige behov for tilrettelegging samt krigsskadde flyktninger. Mottaket drives av Hero Norge på oppdrag fra UDI. Mottaket er døgnbemannet og har det daglige omsorgsansvaret for asylsøkerne på mottaket. På særskilt avdeling jobber vi målrettet for å støtte, veilede og hjelpe flyktningene med å få opprettet kontakt med nødvendige helsetjenester. Vi kartlegger hjelpebehovet og følger opp ved å koordinere kontakten med helsevesenet og sørge for at flyktningene får den hjelpen de trenger og har krav på. Vår jobb er å gi omsorg, trygghet og stabilitet i et nytt og ukjent samfunn for nyankomne flyktninger.</p><p>Dette er en stilling som vil gi deg mulighet til å bruke hele spekteret du sitter inne med som arbeidstaker i helsevesenet, og som lar deg ta vare på hele personen. Vi har behov for sykepleiere, vernepleiere, fysioterapeut, ergoterapeut, sosionom, barnevernspedagog og helsefagarbeidere i forskjellige stillingsbrøker.</p><p>Vi er et stabilt og engasjert team som jobber sammen for å oppnå et best mulig resultat. Vi trenger flere medarbeidere som ønsker å bidra til en trygg og god start her i Norge for våre nyankomne flyktninger.</p><p> </p><p><br /></p><p><br /></p><p>Vi vil vurdere søknader fortløpende og ønsket oppstart er snarest mulig!</p><p><br /></p><p>ARBEIDSOPPGAVER:</p><ul><li>Kartlegging og oppfølging av hver enkelt beboers fysiske og medisinske behov</li><li>Være medansvarlig for at omsorg og helsehjelp som utøves, er i overenstemmelse med avdelingens målsetting.</li><li>Dokumentere gjennom behandlingsplaner og målrettede tiltak og evalueringer.</li><li>Koordinere beboers behandling/tilbud i samarbeid med medarbeidere og beboer.</li><li>Observere beboers tilstand og bedømme, prioritere, iverksette, evaluere og ta ansvar for nødvendige sykepleietiltak, og ved behov kontakte annen ekspertise.</li><li>SOM HELSEUTDANNET VIL MAN INNE HA SÆRLIG ANSVAR FOR:</li><li>Sørge for at medisinske forordninger blir utført.</li><li>Holde seg faglig oppdatert.</li><li>Veilede i teamet </li><li>Ansvarsvakter i avdeling på mottaket</li><li>Medansvarlig for at avdelingens ressurser forvaltes forsvarlig</li></ul><p><br /></p><p><strong>KVALIFIKASJONER</strong></p><ul><li>Offentlig godkjent fysioterapeut/ergoterapeut</li><li>Relevant bakgrunn, erfaring og egnethet blir sterkt vektlagt</li><li>Gode norskkunnskaper muntlig og skriftlig</li><li>Engelskkunnskaper og annen språkkompetanse er en fordel, og vil bli vektlagt</li><li>Søkere med språkkunnskaper som ukrainsk, russisk, arabisk er ønskelig</li><li>Gjerne erfaring fra flerkulturelt arbeid og med målgruppene er en fordel</li><li>Erfaring fra arbeid med personer med psykiske og/eller fysiske lidelser er en fordel</li><li>Må kunne takle krevende beboersituasjoner</li><li>Grunnleggende datakunnskaper</li></ul><p><br /></p><p><strong>PERSONLIG EGENSKAPER</strong></p><ul><li>Ha respekt for den enkelte beboer</li><li>Ansvarsbevisst </li><li>Fleksibel</li><li>Engasjert</li><li>Lojal</li><li>Motivert til faglig utvikling</li><li>Evne til å arbeide selvstendig og i team</li><li>Ha høy arbeidsmoral</li><li>Bidra til et godt arbeidsmiljø</li><li>Må trives i et aktivt, faglig og spennende miljø</li></ul><p><br /></p><p><strong>Vi tilbyr</strong></p><ul><li>Ansettelse i en seriøs flerkulturell bedrift</li><li>Et uformelt, hyggelig og profesjonelt miljø</li><li>Utfordrende arbeidsoppgaver med gode muligheter for faglig utvikling</li><li>Pensjons- og forsikringsordninger</li><li>Lønn etter tariffavtale</li></ul><p><br /></p><p>I henhold til Utlendingslovens § 97 stilles krav om politiattest for å jobbe i mottak.</p><p>Hero Norge ønsker en personalgruppe som er preget av mangfold, og oppfordrer spesielt personer med innvandrerbakgrunn til å søke. </p><p>Personer som påberoper seg fortrinnsrett må opplyse om dette i sin søknad.</p><p><br /></p><p>«JOBB MED MENING»</p><p><br /></p><p>Hero vil bidra til å gjøre en ny framtid mulig. Vi er til stede i Norge, Sverige og Tyskland og våre tjenester omfatter asylmottaksdrift, undervisning og språktjenester. Vi har over 35 års erfaring fra arbeid med asylsøkere og flyktninger. Våre kjerneverdier er åpenhet, likeverd og profesjonalitet. Vi har et flerkulturelt og mangfoldig arbeidsmiljø, og er en av Norges største aktører innen integrerings- og flyktningarbeid. Vi er i kontinuerlig utvikling og vil gjerne ha flere med oss til å utvikle fremtidens tjenester. <a href=\"https://www.hero.no/\" rel=\"nofollow\">Les mer</a></p>",
+            "sourceurl": "https://job.mojob.io/22415/",
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://job.mojob.io/22416/?utm_id=14484&utm_campaign=14484&utm_medium=job_share&utm_source=nav&utm_term=Fysioterapeut%2C+ergoterapeut&utm_content=22416",
+            "applicationDue": "13.07.2023",
+            "occupationCategories": [
+                {
+                    "level1": "Helse og sosial",
+                    "level2": "Psykologer og terapeuter"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/ca9a30b9-bb63-4200-bf51-e8040e24d1a9",
+            "employer": {
+                "name": "Glittre Særbo",
+                "orgnr": null,
+                "description": "<p>Hero er en privat virksomhet som tilbyr tjenester rettet mot målgruppene asylsøkere, flyktninger og innvandrere. Vi er en av de største organisasjonene i Norge innenfor vårt fagfelt. Vi etablerte vårt første asylmottak i 1987 og har siden vært en viktig aktør i utviklingen av det norske mottakssystemet.</p><p><br /></p><p>Som eneste virksomhet i Norge tilbyr vi tjenester helt fra ankomst som asylsøker til Norge, videre gjennom mottaksoppholdet og til integrering i arbeid og utdannelse.</p><p>Foruten drift av ulike typer asylmottak og barnehager, leverer vi tolketjenester og ulike kvalifiseringsprogram til nyankomne innvandrere og bosatte flyktninger.</p>",
+                "homepage": null
+            },
+            "engagementtype": "Sesong",
+            "extent": null,
+            "starttime": null,
+            "positioncount": "4",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "6c2a9a51-247e-43b5-8807-37fed10a6527",
+            "published": "2023-06-13T08:39:46.58771Z",
+            "expires": "2023-07-06T19:59:59.824Z",
+            "updated": "2023-06-13T10:42:15.113405Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "Glittreveien 31, Hakadal, Norge",
+                    "city": "HAKADAL",
+                    "postalCode": "1487",
+                    "county": "VIKEN",
+                    "municipal": "NITTEDAL"
+                }
+            ],
+            "title": "Sykepleiere, vernepleiere, helsefagarbeidere",
+            "description": "<p>I mars opprettet vi en helt ny avdeling på den tidligere Glittre klinikken i Nittedal kommune (Oslo område), hvor vi ivaretar asylsøkere med særlige behov for tilrettelegging samt krigsskadde flyktninger. Mottaket drives av Hero Norge på oppdrag fra UDI. Mottaket er døgnbemannet og har det daglige omsorgsansvaret for asylsøkerne på mottaket. På særskilt avdeling jobber vi målrettet for å støtte, veilede og hjelpe flyktningene med å få opprettet kontakt med nødvendige helsetjenester. Vi kartlegger hjelpebehovet og følger opp ved å koordinere kontakten med helsevesenet og sørge for at flyktningene får den hjelpen de trenger og har krav på. Vår jobb er å gi omsorg, trygghet og stabilitet i et nytt og ukjent samfunn for nyankomne flyktninger.</p><p>Dette er en stilling som vil gi deg mulighet til å bruke hele spekteret du sitter inne med som arbeidstaker i helsevesenet, og som lar deg ta vare på hele personen. Vi har behov for sykepleiere, vernepleiere, fysioterapeut, ergoterapeut, sosionom, barnevernspedagog og helsefagarbeidere i forskjellige stillingsbrøker.</p><p>Vi er et stabilt og engasjert team som jobber sammen for å oppnå et best mulig resultat. Vi trenger flere medarbeidere som ønsker å bidra til en trygg og god start her i Norge for våre nyankomne flyktninger.</p><p> </p><p><br /></p><p><br /></p><p>Vi vil vurdere søknader fortløpende og ønsket oppstart er snarest mulig!</p><p><br /></p><p>ARBEIDSOPPGAVER:</p><ul><li>Kartlegging og oppfølging av hver enkelt beboers fysiske og medisinske behov</li><li>Være medansvarlig for at omsorg og helsehjelp som utøves, er i overenstemmelse med avdelingens målsetting.</li><li>Dokumentere gjennom behandlingsplaner og målrettede tiltak og evalueringer.</li><li>Koordinere beboers behandling/tilbud i samarbeid med medarbeidere og  beboer.</li><li>Observere beboers tilstand og bedømme, prioritere, iverksette, evaluere og ta ansvar for nødvendige sykepleietiltak, og ved behov kontakte annen ekspertise.</li><li>SOM HELSEUTDANNET VIL MAN INNE HA SÆRLIG ANSVAR FOR:</li><li>Sørge for at medisinske forordninger blir utført.</li><li>Holde seg faglig oppdatert.</li><li>Veilede i teamet </li><li>Ansvarsvakter i avdeling på mottaket</li><li>Medansvarlig for at avdelingens ressurser forvaltes forsvarlig</li></ul><p><br /></p><p><strong>KVALIFIKASJONER</strong></p><ul><li>Offentlig godkjent sykepleier/ vernepleier/helsefagarbeidere</li><li>Relevant bakgrunn, erfaring og egnethet blir sterkt vektlagt</li><li>Gode norskkunnskaper muntlig og skriftlig</li><li>Engelskkunnskaper og annen språkkompetanse er en fordel, og vil bli vektlagt</li><li>Søkere med språkkunnskaper som ukrainsk, russisk, arabisk er ønskelig</li><li>Gjerne erfaring fra flerkulturelt arbeid og med målgruppene er en fordel</li><li>Erfaring fra arbeid med personer med psykiske og/eller fysiske lidelser er en fordel</li><li>Må kunne takle krevende beboersituasjoner</li><li>Grunnleggende datakunnskaper</li></ul><p><br /></p><p><strong>PERSONLIG EGENSKAPER</strong></p><ul><li>Ha respekt for den enkelte beboer</li><li>Ansvarsbevisst </li><li>Fleksibel</li><li>Engasjert</li><li>Lojal</li><li>Motivert til faglig utvikling</li><li>Evne til å arbeide selvstendig og i team</li><li>Ha høy arbeidsmoral</li><li>Bidra til et godt arbeidsmiljø</li><li>Må trives i et aktivt, faglig og spennende miljø</li></ul><p><br /></p><p><strong>Vi tilbyr</strong></p><ul><li>Ansettelse i en seriøs flerkulturell bedrift</li><li>Et uformelt, hyggelig og profesjonelt miljø</li><li>Utfordrende arbeidsoppgaver med gode muligheter for faglig utvikling</li><li>Pensjons- og forsikringsordninger</li><li>Lønn etter tariffavtale</li></ul><p><br /></p><p>I henhold til Utlendingslovens § 97 stilles krav om politiattest for å jobbe i mottak.</p><p>Hero Norge ønsker en personalgruppe som er preget av mangfold, og oppfordrer spesielt personer med innvandrerbakgrunn til å søke. </p><p>Personer som påberoper seg fortrinnsrett må opplyse om dette i sin søknad.</p><p><br /></p><p>«JOBB MED MENING»</p><p><br /></p><p>Hero vil bidra til å gjøre en ny framtid mulig. Vi er til stede i Norge, Sverige og Tyskland og våre tjenester omfatter asylmottaksdrift, undervisning og språktjenester. Vi har over 35 års erfaring fra arbeid med asylsøkere og flyktninger. Våre kjerneverdier er åpenhet, likeverd og profesjonalitet. Vi har et flerkulturelt og mangfoldig arbeidsmiljø, og er en av Norges største aktører innen integrerings- og flyktningarbeid. Vi er i kontinuerlig utvikling og vil gjerne ha flere med oss til å utvikle fremtidens tjenester. <a href=\"https://www.hero.no/\" rel=\"nofollow\">Les mer</a></p>",
+            "sourceurl": "https://job.mojob.io/20864/",
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://job.mojob.io/20865/?utm_id=13066&utm_campaign=13066&utm_medium=job_share&utm_source=nav&utm_term=Sykepleiere%2C+vernepleiere%2C+helsefagarbeidere&utm_content=20865",
+            "applicationDue": "06.07.2023",
+            "occupationCategories": [
+                {
+                    "level1": "Helse og sosial",
+                    "level2": "Helse"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/6c2a9a51-247e-43b5-8807-37fed10a6527",
+            "employer": {
+                "name": "Glittre Særbo",
+                "orgnr": null,
+                "description": "<p>Hero er en privat virksomhet som tilbyr tjenester rettet mot målgruppene asylsøkere, flyktninger og innvandrere. Vi er en av de største organisasjonene i Norge innenfor vårt fagfelt. Vi etablerte vårt første asylmottak i 1987 og har siden vært en viktig aktør i utviklingen av det norske mottakssystemet.</p><p><br /></p><p>Som eneste virksomhet i Norge tilbyr vi tjenester helt fra ankomst som asylsøker til Norge, videre gjennom mottaksoppholdet og til integrering i arbeid og utdannelse.</p><p>Foruten drift av ulike typer asylmottak og barnehager, leverer vi tolketjenester og ulike kvalifiseringsprogram til nyankomne innvandrere og bosatte flyktninger.</p>",
+                "homepage": null
+            },
+            "engagementtype": "Sesong",
+            "extent": null,
+            "starttime": null,
+            "positioncount": "4",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "887ea7bb-6df5-4455-81c9-1fe16874da7f",
+            "published": "2023-06-13T08:38:15.075163Z",
+            "expires": "2023-07-20T22:00:00Z",
+            "updated": "2023-06-13T08:38:16.8598Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "0164 Oslo",
                     "city": "OSLO",
-                    "postalCode": "0580",
+                    "postalCode": "0164",
                     "county": "OSLO",
                     "municipal": "OSLO"
                 }
             ],
-            "title": "Trainee-stilling som førstekonsulent - drifts- og kontormedarbeider til lokalene våre på Økern Porta",
-            "description": "Gjennom effektiv ressursbruk i staten kan vi løse enda flere oppgaver for fellesskapet og støtte opp om viktige samfunnsmål. Dette er kjernen av samfunnsoppdraget vårt i DFØ! For å realisere visjonen om effektiv ressursbruk i staten jobber vi langs mange spor, og nå søker vi deg som vil bli med på laget.<br /> <br /><strong>Trainee-stilling som førstekonsulent – drifts- og kontormedarbeider til lokalene våre på Økern Portal</strong><br /> <br />Trives du i en stilling der du får jobbe med kontorrelaterte og administrative oppgaver? Er du opptatt av å fasilitere for gode arbeidsplasser, serviceorientert og liker varierte arbeidsdager? Da er dette stillingen for deg!<br />Du vil ha ansvaret for mye av det driftsrelaterte og praktiske arbeidet i kontorlokalene, herunder ha dialog med driftsansvarlig på bygget, bestille varer, holde orden i lokalene, drifte kaffemaskiner, betjene sentralbord og oppdatere rutiner og informasjon.<br />Som del av traineeprogrammet vil du automatisk delta i et obligatorisk medarbeiderutviklingsprogram og du vil ha både en mentor og en fadder hos oss. For å bli vurdert til stillingen, må du bekrefte at du er i målgruppen ved å krysse av for nedsatt funksjonsevne eller hull i CV-en. Avkrysningene i jobbsøkerportalen danner grunnlag for anonymisert statistikk som alle statlige virksomheter rapporterer i sine årsrapporter.<br />Stillingen er midlertidig, med en varighet på 1 år med mulighet for fast ansettelse. Mer informasjon om programmet og hvem som kan søke finner du her: Traineeprogrammet i staten | Statens arbeidsgiverportal (dfo.no)<br /><strong>Om avdelingen du skal jobbe i</strong><br />Avdelingen tilhører strategi- og fellestjenestedivisjonen og leverer tjenester til resten av organisasjonen. Stillingen er tilknyttet HR avdelingen hvor vi er rundt 25 engasjerte medarbeidere fordelt på to seksjoner og en «stab». Vi holder til i trivelige og moderne lokaler på Økern i Oslo og er over 300 medarbeidere i et faglig sterkt, uformelt miljø med høy trivsel.<br />I administrasjonsseksjonen får du 6 hyggelige kolleger, som jobber med oppgaver som husleieforvaltning og drift, kursadministrasjon samt andre administrative oppgaver. Vi er et effektivt team som jobber med alt fra å forvalte gode interne tjenester til organisasjonen til drift og utvikling.<br /><strong>Oppgaver</strong><br />· ansvar for å følge opp driften av lokalene, samt være bindeledd og følge opp drifts- og vedlikeholdsoppdrag som utføres av gårdeier og eksterne leverandører<br />· holde kontorområdet ryddig og funksjonelt<br />· følge opp kontoradministrative avtaler og ha dialog med leverandører<br />· ansvar for fysisk til rettelegging av kontorplasser<br />· diverse innkjøp kontorstøtte<br />· fakturabehandling<br />· betjene sentralbord<br />· andre kontoradministrative oppgaver<br /><strong>Kvalifikasjoner</strong><br /><strong>Du må ha:</strong><br />· bachelor innen administrasjon og ledelse eller annen relevant høyere grad<br />· relevant erfaring med kontoradministrative oppgaver, som for eksempel drift og fasilitering av lokaler, betjene sentralbord, diverse innkjøp<br />· økonomiforståelse og kjennskap til økonomisystem<br />· erfaring med brukerorientering og samhandlingsverktøy (gjerne Office 365 og kundestøttesystem)<br />· god skriftlig og muntlig fremstillingsevne på norsk<br /> <br /><strong>Du bør ha:</strong><br />· kunnskap og erfaring med å produsere og publisere i digitale kanaler, for eksempel intranett<br /><strong>Hvem er du:</strong><br />Det er viktig at du er nøyaktig, strukturert, og ryddig, og kan jobbe selvstendig. Du må være glad i fysisk og praktisk arbeid. Videre må du trives med å samarbeide med andre, for å skape tillit og ha en god dialog med de du leverer tjenester til. Du har et engasjement for faget ditt, er løsningsorientert og serviceorientert, og må trives i et hektisk arbeidsmiljø.<br />Personlig egnethet vil tillegges vekt.<br /> <br /><strong>Vi tilbyr deg</strong><br />· interessante og varierte arbeidsoppgaver i en virksomhet med et viktig samfunnsoppdrag - hos oss er du med på å bidra til effektiv ressursbruk i staten<br />· et godt faglig og sosialt arbeidsmiljø<br />· muligheter for relevante kurs og sertifiseringer<br />· en stabil arbeidsgiver med fleksibel arbeidstid (inkludert sommertid), gode velferdsordninger og mulighet for trening i arbeidstiden<br />· moderne lokaler med en sterk bærekraftprofil, spennende restaurantkonsepter og Nord-Europas største takhage - les mer om teknologibygget Økern Portal her: https://okernportal.no/ (https://okernportal.no/)<br />· medlemskap i en av landets beste pensjonsordninger, Statens Pensjonskasse spk.no (https://www.spk.no/), som også tilbyr deg svært gode pensjons-, forsikrings- og boliglånsordninger<br />Du får mange goder av å jobbe i staten. Mer om dem kan du finne på Arbeidsgiverportalen: https://arbeidsgiver.difi.no/lonn-goder-og-reise (https://arbeidsgiver.dfo.no/lonn-goder-og-reise?size&#61;n_20_n)<br /><strong>Betingelser</strong><br />Muligheter for kompetanseutvikling gjennom deltagelse på kurs og konferanser. En stilling som gir gode, reelle muligheter for karriere- og kompetansebygging med fleksible arbeidstidsordninger som fleksitid, sommertid og betalt overtid.<br />Stillingen er midlertidig og vil bli plassert som førstekonsulent med lønnsplassering mellom 470 000 og 524 000 kroner per år avhengig av kompetanse og erfaring. For spesielt godt kvalifiserte søkere kan høyere lønn vurderes. Fra lønnen trekkes 2 prosent innskudd til Statens pensjonskasse.<br /> <br /><strong>Vi hører gjerne fra deg dersom du har spørsmål</strong><br />Synes du dette høres interessant ut og ønsker nærmere informasjon, kontakt gjerne seksjonsleder Benedicte Sunde Hallingstad , telefon 901 46 497<br />Se også vår hjemmeside www.dfo.no for mer informasjon om DFØ.<br /><strong>Mangfold i DFØ</strong><br />I DFØ tror vi at mangfold gir oss bredere perspektiver, og at medarbeidere med ulik livserfaring og bakgrunn gjør oss i stand til å skape enda bedre løsninger i samfunnsoppdraget vårt. Derfor oppfordrer vi alle til å søke jobb hos oss.<br />Dersom du har en funksjonsnedsettelse, innvandrerbakgrunn eller hull i CV-en, så kan du bli positivt særbehandlet dersom du krysser av for dette når du søker på stillingen. Vi inviterer alltid minst én kvalifisert søker fra hver av disse gruppene til intervju. Du kan lese mer om positiv særbehandling her: http://arbeidsgiver.difi.no/positivsaerbehandling (https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-skrive-stillingsannonser-som-inkluderer/positiv-saerbehandling-nar-man-soker-jobb-i-staten?size&#61;n_20_n).<br /><strong>Praktisk informasjon om søkeprosessen</strong><br />Du søker på stillingen via rekrutteringsportalen vår. Vi ber deg om å laste opp relevante vitnemål og attester. Vitnemål og/eller karakterutskrifter kan du hente fra Vitnemålportalen. Dersom du har utdanning fra utlandet, ber vi om at du legger ved godkjenning fra Direktoratet for høyere utdanning og kompetanse, les mer her: https://hkdir.no/vaare-tenester/godkjenningsordningar-for-utanlandsk-utdanning (https://hkdir.no/vaare-tenester/godkjenningsordningar-for-utanlandsk-utdanning). Vi vurderer søknaden din på bakgrunn av den informasjonen du har sendt oss når søknadsfristen har passert. Det er derfor viktig at du i søknaden din viser hvordan kompetansen din fyller de kvalifikasjonskravene som er beskrevet i annonsen.<br /><strong>Søkerlister</strong><br />Når søknadsfristen har gått ut lager vi offentlig søkerliste. Dersom du ønsker å reservere deg fra å bli oppført på denne, må du krysse av for og begrunne dette i søknaden din. Vi tar kontakt med deg hvis vi ikke kan imøtekomme ønsket ditt om å ikke bli oppført på søkerlista.<br /><strong>Om oss</strong><br />Direktoratet for forvaltning og økonomistyring (DFØ) er statens fagorgan for økonomistyring, gode beslutningsgrunnlag for statlige tiltak, organisering og ledelse i staten, samt for anskaffelser i offentlig sektor. Vi leverer lønns- og regnskapstjenester til rundt 90 prosent av<br />statsforvaltningen og har ansvaret for forvaltning og drift av statsregnskapet og statens konsernkontoordning.<br />Vi skal bidra til effektiv ressursbruk i staten gjennom kompetansetiltak, rådgivning, fellestjenester og utvikling av metoder og verktøy. Vi har om lag 800 ansatte, fordelt på Oslo, Stavanger og Trondheim.<br /> ",
+            "title": "Sommerjobb på legekontor og sykehus",
+            "description": "<h3>Innledning</h3>\r\n<p>Vi har behov for flere sekretærer som kan jobbe som vikar i ferieavviklingen.</p>\r\n<p>Kan du jobbe i Oslo og Viken, Stavanger, Bergen eller Trondheim? Da har vi sommerjobben til deg!</p>\r\n<br />\r\n<p>Har du noen ledige uker  - så ta kontakt med oss! Fortell oss når du kan jobbe og hvilke journalsystem du kan.</p>\r\n<p>Vi har stort behov for erfarne sekretærer.</p>\r\n<br />\r\n<h3>Arbeidsoppgavene kan variere:</h3>\r\n<ul><li>Resepsjonsarbeid med skranke/ekspedisjon, pasientmottak</li><li>Telefonbetjening og registrering timebok</li><li>Journalføring av diagnoser/prosedyrer/prøvesvar</li><li>Laboratorium med blodprøvetakging</li><li>Skiftestuearbeid</li></ul>\r\n<br />\r\n<h3>Arbeidstid</h3>\r\n<p>Dagtid kl 08:00 - 15:30<br /></p>\r\n<h3>Ønskede kvalifikasjoner</h3>\r\n<ul><li>Autorisert helsesekretær</li><li>Erfaren medisinsk-sekretær</li><li>Kjennskap til ett eller flere journalsystem, venøse prøver og med skiftestuearbeid</li></ul>\r\n<br />\r\n<h3>Personlige egenskaper</h3>\r\n<p>Du er erfaren, ansvarsbevisst og selvstendig.</p>\r\n<p>Punktlig og nøyaktig, følger prosedyrer og har gode hygienerutiner</p>\r\n<p>Serviceinnstilt overfor kollegaer og pasienter. Bidrar til et godt miljø.</p>\r\n<p>Fleksibel i forhold til oppgaver</p>\r\n<br />\r\n<h3>Vi tilbyr</h3>\r\n<ul><li>Spennende og varierte oppgaver</li><li>God oppfølging av konsulent</li><li>Ryddige lønnsforhold</li><li>Mulighet til kurs og kompetanseøkning</li></ul>\r\n<br />\r\n<h3>Avsluttende tekst</h3>\r\n<p>Syns du dette høres som noe for deg? Ta kontakt for å høre hva vi kan tilby!</p>\r\n",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://direktoratet.contactrh.com/jobs/14035/41652775/nb_NO",
-            "applicationDue": "2023-06-22T00:00:00Z",
+            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=192&id_utleie=3000813",
+            "applicationDue": "21.07.2023",
             "occupationCategories": [
                 {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Personal, arbeidsmiljø og rekruttering"
-                },
-                {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Ledelse, administrasjon og rådgivning"
-                },
-                {
-                    "level1": "Kontor og økonomi",
-                    "level2": "Kontor, forvaltning og saksbehandling"
+                    "level1": "Helse og sosial",
+                    "level2": "Helse"
                 }
             ],
-            "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/e2e47627-fb04-4524-b107-2982f3f4a34f",
+            "jobtitle": "Sommerjobb for helsesekretær",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/887ea7bb-6df5-4455-81c9-1fe16874da7f",
             "employer": {
-                "name": "Direktoratet for forvaltning og økonomistyring",
+                "name": "Lenas HelsePersonell AS avd. Vikarbyrå (Oslo)",
                 "orgnr": null,
-                "description": null,
+                "description": "<p>Vi har levert helsepersonell til helsesektoren i 25 år, og er det eldste spesialiserte bemanningsbyrået i Norge. Vi er størst på utleie av helsesekretærer og tannhelsesekretærer til sykehus, legekontor og tannlegekontor i hele Norge.</p>\r\n",
                 "homepage": null
             },
-            "engagementtype": "Trainee",
+            "engagementtype": "Vikariat",
             "extent": "Heltid",
-            "starttime": null,
-            "positioncount": "1",
-            "sector": "Offentlig"
+            "starttime": "21.07.2023",
+            "positioncount": "8",
+            "sector": "Privat"
         },
         {
-            "uuid": "1e6aae88-1b29-40ec-9ca5-9e3924a5532a",
-            "published": "2023-06-09T08:55:28Z",
-            "expires": "2023-07-01T19:59:59Z",
-            "updated": "2023-06-09T11:01:15.738405Z",
+            "uuid": "9bae9f97-88cc-4700-99fe-f46b9ec554f7",
+            "published": "2023-06-13T08:33:45.560715Z",
+            "expires": "2023-06-27T19:59:59Z",
+            "updated": "2023-06-13T12:12:15.091284Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "Knud Askers vei 26",
-                    "city": "ASKER",
-                    "postalCode": "1383",
-                    "county": "VIKEN",
-                    "municipal": "ASKER"
+                    "address": "Oslo, Norge",
+                    "city": "OSLO",
+                    "postalCode": "0184",
+                    "county": "OSLO",
+                    "municipal": "OSLO"
                 }
             ],
-            "title": "Salgs- og kunderådgiver 80% til Synsam Asker Trekanten",
-            "description": "<p><strong>SYNSAM - SE OG BLI SETT</strong></p><p><strong>Vi søker nå Salgs- og kunderådgiver 80% til Synsam Asker Trekanten!</strong></p><p>Hos oss er kunden alltid nummer 1. Sammen med Synsam-teamet vil du få ansvar for hele kundereisen og sikre bransjens mest fornøyde kunder. Hos oss får du jobbe i bransjens mest innovative selskap med fokus på teknologi, øyehelse og bærekraft. Dette innebærer muligheten til å utvikle klinisk kompetanse, lederskap og spesialisering innen blant annet salg, B2B og mote. </p><p> </p><p> <strong>Dette er noe av det du vil få jobbe med:</strong></p><ul><li>Salgsrådgivning </li><li>Veilede våre kunder i valg av blant annet innfatning, brilleglass, og linser</li><li>Bistå optiker med gjennomføring av kliniske tjenester</li><li>Sikre at butikken ser ryddig og innbydende ut, samt annet forefallende butikkarbeid</li></ul><p> </p><p><strong>Hvem er du?</strong></p><ul><li>Helst erfaring fra kundebehandling, salg og service</li><li>Positiv holdning og lagspiller</li><li>Ambisiøs og på utkikk etter å utvikle deg selv personlig og faglig</li><li>Interessert i kundens perspektiv og behov, og er glad i folk</li><li>Ansvarsfull og resultatorientert</li><li>Du er dyktig på å skape gode relasjoner</li><li>Har et langsiktig perspektiv og vil være med på en spennende reise i Synsam</li></ul><p> </p><p><strong>Vi tilbyr:</strong></p><ul><li>En spennende og variert jobb i Norges ledende optikerkjede</li><li>Salgsbonus basert på butikkens satte mål</li><li>Et engasjerende fagmiljø som gir deg muliget til å utvikle deg</li><li>Et godt arbeidsmiljø der vi er opptatt av å se hver enkelt medarbeider</li><li>Grundig opplæring og utvikling via vår interne skole, Synsam Academy</li><li>Karrieremuligheter, vi ser alltid etter dyktige interne kandidater</li><li>Gode personalrabatter på produkter og tjenester</li></ul><p> </p><p> </p><p><em>Søknadsfrist: </em><strong><em>01.07.23</em></strong><br /><em>Oppstart: <strong>August</strong></em></p><p> </p><p><strong>Høres dette spennende ut? Ikke nøl med å ta kontakt dersom du lurer på noe.</strong><br /></p>",
-            "sourceurl": null,
+            "title": "Serviceinnstilt og glad i å lage mat? Se her!",
+            "description": "<h3>Vi ser etter deg som er fleksibel og kan tiltre på kort varsel. Arbeidstid vil variere, men det er i hovedsak på dagtid.</h3><p>Stillingen er på tilkalling og vi kan tilby både korte og lange oppdrag. </p><h3><br /></h3><h3>Vi håper at du har:</h3><ul><li>Erfaring fra kantine / kjøkken</li><li>Erfaring med kasse og kundebehandling</li><li>Kjennskap til IK mat</li><li>Gode muntlige norskkunnskaper</li></ul><h3><br /></h3><h3>Vi tilbyr:</h3><ul><li>Fast stilling hos Personalhuset</li><li>Fleksible arbeidsforhold</li><li>Tett oppfølging av personlig rådgiver</li><li>Et godt arbeidsmiljø</li></ul><p><br /></p><p>Er det kanskje deg vi ser etter?</p>",
+            "sourceurl": "https://job.mojob.io/23069/",
             "source": "IMPORTAPI",
-            "applicationUrl": "https://jobb.synsam.no/jobs/2904406-salgs-og-kunderadgiver-80-til-synsam-asker-trekanten/applications/new?promotion=692781-nav-no",
+            "applicationUrl": "https://job.mojob.io/23070/?utm_id=15161&utm_campaign=15161&utm_medium=job_share&utm_source=nav&utm_term=Er+du+glad+i+%C3%A5+lage+mat+og+%C3%B8nsker+%C3%A5+jobbe+som+tilkallings+vikar+p%C3%A5+dagtid%3F&utm_content=23070",
+            "applicationDue": "27.06.2023",
+            "occupationCategories": [
+                {
+                    "level1": "Reiseliv og mat",
+                    "level2": "Restaurant"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/9bae9f97-88cc-4700-99fe-f46b9ec554f7",
+            "employer": {
+                "name": "Personalhuset - Service & Logistikk",
+                "orgnr": null,
+                "description": "<h3>Personalhuset er et av Nordens ledende rekrutterings- og bemanningsselskaper og inngår i konsernet Otiga Group.</h3><p><br /></p><p>Otiga Group består av flere selskaper innen rekruttering, bemanning, omstilling og konsulenttjenester. Personalhuset har 15 kontorer i Norge med stor geografisk spredning, hvor over 100 ansatte hver dag jobber for å inspirere, utfordre og ikke minst bry seg om våre kunder og medarbeidere.</p><p><br /></p><p>Vår visjon er å utfordre det etablerte. Sammen med våre kunder skal vi møte morgendagens behov gjennom fokus på teknologi og utvikling av mennesker. Vårt mål er å være det mest synlige og innovative rekrutterings- og bemanningsselskapet. Uansett hvor du møter oss, vil samme høye kvalitet og entusiasme prege våre tjenester.</p><p><br /></p><p>For mer informasjon se <a href=\"https://business.mojob.io/www.personalhuset.no\" rel=\"nofollow\">personalhuset.no</a></p>",
+                "homepage": null
+            },
+            "engagementtype": "Sesong",
+            "extent": null,
+            "starttime": null,
+            "positioncount": "5",
+            "sector": "Privat"
+        },
+        {
+            "uuid": "53a9eace-4a49-4445-bcdc-e91226810a26",
+            "published": "2023-06-13T08:33:29.489578Z",
+            "expires": "2023-06-13T10:38:15.043618Z",
+            "updated": "2023-06-13T10:38:15.15496Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "Stavanger, Norge",
+                    "city": "STAVANGER",
+                    "postalCode": "4005",
+                    "county": "ROGALAND",
+                    "municipal": "STAVANGER"
+                }
+            ],
+            "title": "Unifon søker Salgskonsulenter",
+            "description": "<p>Vi ser etter deg med relevant erfaring fra salg og som ønsker å bygge videre på din karriere innen salg mot bedriftsmarkedet. Hos oss er det gode utviklingsmuligheter og konkurransedyktige betingelser. Jobb i ditt eget tempo og administrer din egen arbeidshverdag.</p><p>Du vil ha kontorplass i et godt arbeidsmiljø - og ikke minst mulighet til å jobbe sammen med noen av bransjens beste salgsledere - som vil bistå i sambesøk og kompetansebygging.</p><p><br /></p><p>Du vil få en god og profesjonell opplæring for å gjøre deg til en trygg og sikker bedriftsrådgiver.</p><p>Du blir godt rustet til ditt første kundemøte!</p><p><br /></p><p>Hos <strong>Unifon</strong> får du en jobb i et utrolig spennende marked, med stort potensial og svært gode inntjeningsmuligheter. Som bedriftsrådgiver vil du ha varierte arbeidsdager hvor du selv avtaler kundemøter og har full kontroll på hele salgsprosessen.</p><p><br /></p><p>Har du ikke relevant erfaring, men er nysgjerrig på salgsyrket og er motivert for å lære noe nytt? Da ønsker vi å hjelpe deg på veien. Unifon tilbyr grundig og profesjonell opplæring med tett oppfølging av din overordnede, til du er trygg i rollen.</p><p>Har du kanskje erfaring fra lignende arbeid og en gryende tanke om å bygge opp ditt eget selskap? Riktig kandidat kan være aktuell for forhandleravtale hos oss.</p><p><br /></p><p><strong>Kvalifikasjoner:</strong></p><ul><li>Gode kommunikasjonsferdigheter</li><li>Resultatorientert</li><li>Norsk/svensk språk</li><li>Positiv bidragsyter til arbeidsmiljøet</li><li>Strukturert</li><li>Gode samarbeidsevner</li><li>Har salgserfaring og kan vise til gode salgsresultater</li><li>Er komfortabel med å jobbe etter tøffe målsettinger</li><li>Er troverdig og proff i kundemøter</li><li>Jobber strukturert og har kontroll på detaljer</li><li>Trives best med høyt tempo og nye utfordringer</li><li>Har naturlig godt humør og stayerevne</li><li>Du trives med telefon som arbeidsverktøy</li></ul><p><br /></p><p><strong>Som ansatt i Unifon kan vi tilby:</strong></p><ul><li>Lønn &#43; bonus eller etter avtale</li><li>En variert arbeidshverdag med høyt tempo</li><li>Et godt arbeidsmiljø med mye arbeidsglede og støtte fra kollegaer</li><li>Løsning for delvis hjemmekontor og en fleksibel arbeidshverdag</li><li>Fast ansettelse og konkurransedyktige betingelser</li><li>Forhandleravtale</li><li>Salg av Unifons telefoniløsninger mot bedriftsmarkedet</li><li>Et høyst motiverende og dedikert arbeidsmiljø</li><li>Konkurransedyktige betingelser</li><li>Delikate og moderne kontorfasiliteter</li></ul><p><br /></p><p><strong><em>Arbeidstid: man-fre kl. 08:00-16:00</em></strong></p><p><br /></p><p>Vi setter stor pris på å høre fra deg som trigges av salg til bedriftsmarkedet, og som er motivert for å jobbe for den største utfordreren i markedet.</p><p><br /></p><p>Trykk &#34;SØK NÅ&#34; for enkelt å levere din søknad, så vil vi ila kort tid komme tilbake til deg med forventet fremdrift og prosess.</p>",
+            "sourceurl": "https://job.mojob.io/23075/",
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://job.mojob.io/23076/?utm_id=15159&utm_campaign=15159&utm_medium=job_share&utm_source=nav&utm_term=Salgskonsulent&utm_content=23076",
             "applicationDue": null,
             "occupationCategories": [
                 {
@@ -790,39 +704,39 @@
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/1e6aae88-1b29-40ec-9ca5-9e3924a5532a",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/53a9eace-4a49-4445-bcdc-e91226810a26",
             "employer": {
-                "name": "Synsam Group Norge",
+                "name": "Stavanger Salgsteam 1",
                 "orgnr": null,
-                "description": "<p><br /></p>",
-                "homepage": "https://jobb.synsam.no"
+                "description": "<p><strong>Unifon </strong>er et moderne teleselskap som leverer kostnadseffektive og smarte telefoniløsninger til bedrifter over hele landet. Våre kunder får tilgang til prisgunstige mobilabonnement og moderne telefoni- og bedriftsnett- løsninger tilpasset bedrifter i alle størrelser. Vi har verdens raskeste mobilnett, Norges beste dekning, høy kundetilfredshet, moderne selvbetjeningsløsninger og kostnadseffektive mobilabonnement.</p><p><br /></p><p>Selskapet forventer en omsetning i 2023 pålydende MNOK 315, har 10.000 bedriftskunder og 60.000 abonnenter.</p><p><br /></p><p>For mer informasjon gå inn på <a href=\"https://www.unifon.no\" rel=\"nofollow\">www.unifon.no</a></p>",
+                "homepage": null
             },
-            "engagementtype": null,
-            "extent": null,
+            "engagementtype": "Fast",
+            "extent": "Heltid",
             "starttime": null,
-            "positioncount": "1",
-            "sector": null
+            "positioncount": "4",
+            "sector": "Privat"
         },
         {
-            "uuid": "68800fcd-f9b1-465c-9046-0c418e31e022",
-            "published": "2023-06-09T08:45:27Z",
-            "expires": "2023-07-09T09:05:28Z",
-            "updated": "2023-06-09T11:06:16.563082Z",
+            "uuid": "d1bd3439-b2e1-45f9-8937-93ebd332a192",
+            "published": "2023-06-13T08:24:54Z",
+            "expires": "2023-07-13T08:44:23Z",
+            "updated": "2023-06-13T10:45:16.654847Z",
             "workLocations": [
                 {
                     "country": "NORGE",
-                    "address": "Kolbotnveien 11",
-                    "city": "KOLBOTN",
-                    "postalCode": "1410",
+                    "address": null,
+                    "city": "JEVNAKER",
+                    "postalCode": "3520",
                     "county": "VIKEN",
-                    "municipal": "NORDRE FOLLO"
+                    "municipal": "JEVNAKER"
                 }
             ],
-            "title": "Er du fleksibel og ønsker en givende deltidsjobb?",
-            "description": "<p><strong>Beskrivelse av stillingen:</strong></p><p>Jeg er en ung kvinne med en funksjonsnedsettelse som gjør at jeg trenger praktisk assistanse i form av Brukerstyrt Personlig Assistanse (BPA) for å få hverdagen og hjemmet mitt til å fungere. Jeg bor på Kolbotn i Nordre Follo, svært nærme både tog- og bussforbindelser og med kort reiseavstand til Oslo.</p><p> </p><p>Jeg søker nå en ny personlig assistent på deltid. Arbeidstid vil være på dagtid, men jeg kan tilby mye fleksibilitet når det gjelder arbeidsmengde og -tidspunkt. Stillingen vil i utgangspunktet være et vikariat, men med mulighet for forlengelse. </p><p> </p><p>I tillegg søker jeg en tilkallingsassistent som kan stille opp ved sykdom eller ferie hos mine andre assistenter. Dette innebærer at arbeidsmengden vil variere, og jeg søker derfor etter deg som har en fleksibel hverdag og mulighet til å kunne stille opp på relativt kort varsel. På generell basis har jeg imidlertid hatt relativt stort behov for tilkallingsvikarer den siste tiden, og dette er forventet å fortsette. </p><p> </p><p>Disse to stillingene kan selvsagt kombineres. </p><p> </p><p>Arbeidet som personlig assistent for meg innebærer at din formelle arbeidsgiver vil være AssisterMeg, mens den daglige arbeidsledelsen utøves av meg. Arbeidsstedet vil være mitt hjem på Kolbotn, som jeg deler med min ektemann og en papegøye. Arbeidsoppgavene består i hovedsak av å bistå meg med diverse praktiske gjøremål og følge meg på ulike avtaler og aktiviteter, i tillegg til husarbeid, matlaging, ærender og diverse forefallende arbeid i hjem og hage. Jeg trenger også assistanse til noe personlig pleie, men det er ingen arbeidsoppgaver av spesielt intim karakter.</p><p> </p><p>Jeg ønsker å ansette deg som er en utpreget ansvarsbevisst person med høy arbeidsmoral, samt en hverdag og livssituasjon som gjør at du kan være både fleksibel og pålitelig. Som min assistent må du ha god praktisk sans og kunne ta i et tak, og du må være serviceinnstilt, effektiv og trives med varierte oppgaver. Det er også svært viktig at du kan arbeide selvgående og uavhengig.</p><p> </p><p>Det er et krav at du har førerkort klasse B, er en svært trygg sjåfør og komfortabel med å kjøre min SUV med automatgir. Du må også kunne kommunisere flytende eller svært godt på norsk.</p><p><br /></p><p>Personlig egnethet vektlegges.</p><p><br /><strong><br /></strong><strong>Arbeidsoppgaver:</strong></p><ul><li>Bistå meg med praktiske gjøremål</li><li>Følge/kjøre meg til ulike avtaler og aktiviteter</li><li>Husarbeid og matlaging</li><li>Diverse forefallende arbeid i hjemmet</li></ul><p> </p><p><strong>Egenskaper: </strong></p><ul><li>Høy arbeidsmoral og ansvarsbevisst.</li><li>Praktisk anlagt og allsidig</li><li>Selvgående og uavhengig.</li><li>Fleksibel og med mulighet til å stille opp på kort varsel (gjelder stillingen som tilkallingsassistent). </li><li>Trygg sjåfør med førerkort klasse B (SUV m/automatgir).</li></ul><p><strong><br /></strong></p><p><strong>Kvalifikasjoner:</strong></p><ul><li>Over 18 år</li><li>Gode kommunikasjonsevner på norsk</li><li>Godkjent politiattest</li><li>Førerkort klasse B.</li></ul><p><br /></p><p><strong>Hva AssisterMeg tilbyr:</strong></p><ul><li>Konkurransedyktig lønn</li><li>Forsikring</li><li>Kurs og kompetanseheving</li><li>Støtte til treningsmedlemsskap</li><li>Tilgang til personalrabatter på utvalgte produkter og tjenester</li><li>Et godt arbeidsmiljø basert på grunnleggende respekt for den enkelte medarbeider </li></ul><p><br /></p><p>Søknadsfrist snarest.</p><p> </p>",
+            "title": "Blid gutt på 6 år søker assistent til høsten",
+            "description": "<p>Min flinke BPA skal begynne å studere til høsten, og jeg trenger da en ny assistent til å hjelpe meg noen kvelder og helger. Du trenger ingen spesiell utdanning da opplæring vil bli gitt, men det er viktig at du trives med barn rundt deg.</p><p>Jeg er en blid og smart gutt med masse humor, som bor med familien min i Jevnaker kommune. Jeg skal begynne i 2. klasse til høsten, og er sosial med mange interesser og gode venner.</p>Jeg er engasjert i det som normalt opptar andre på min alder og liker å leke med biler, butikk, fantasileker, politi osv. og har også mange interesser som spille Nintendo/Minecraft, være på telttur og alt som innebærer fart. Siden jeg ønsker å gjøre det alle andre på min alder gjør men bruker rullestol og rullator, trenger jeg assistent som kan hjelpe meg i de ulike aktivitetene.<br /><br />Som min assistent kommer du til å bistå meg i lek, på turer i skogen eller kino, av- og-påkledning, dusj, praktiske gjøremål og forflytninger. Jobben innebærer å være mine armer og ben og å hjelpe meg ut og inn av hjelpemidler som sittesykkel, rullator, elektrisk rullestol (som jeg kjører selv), sitski og ståstativ, slik at jeg får gjort det jeg ønsker og må få til i løpet av dagen. Den ene dagen er vi kanskje i barnebursdag eller på stranda med mamma eller pappa og neste dag er vi hjemme og spiller Nintendo eller leser bok, alt ut ifra hva jeg har lyst og energi til. Noen dager har du en deltagende rolle sammen med meg, mens andre dager trenger jeg kun praktisk bistand underveis under besøk av kompiser og familie, og du har en mer tilbaketrukken rolle. Derfor må min assistent like variasjon, og kunne trives med både aktive og rolige dager. Familien min har en hund, så du kan ikke være redd for eller allergisk mot hund. Arbeidsstedet er hjemme hos meg, eller der hvor jeg måtte befinne meg.<br /><br /><strong></strong><br /><strong>Arbeidstid<br /></strong><br />Til høsten trenger jeg en assistent som kan jobbe et par faste ettermiddager etter skolen, og noen helger. Det kan bli aktuelt med hvilende nattevakt noen få ganger i året. Hvilke dager du skal jobbe kan avtales nærmere, og kan tilpasses din skole-/arbeidshverdag for øvrig da vi er fleksible. Det vil være økt behov ved skolefri og ferier og det er derfor en fordel at du har mulighet til å stille ved ekstra behov. Du kan også jobbe noen vakter i sommer om du ønsker det. Du vil bli ansatt i AssisterMeg, og pappaen min blir arbeidslederen din.<a href=\"https://www.assistermeg.no/jobbe-som-assistent\" rel=\"nofollow\"><br /><br /></a><strong><br />Kvalifikasjoner og egenskaper<br /><br /></strong><ul><li>Svært gode norskkunnskaper</li><li> Førerkort klasse B og komfortabel med å kjøre stor bil</li><li> Leken, åpen og idérik</li><li>Ansvarsbevisst, pliktoppfyllende og lærevillig</li><li>Løsningsorientert, fleksibel og selvgående</li><li>Et godt arbeidsmiljø basert på grunnleggende respekt for den enkelte medarbeider </li><li>Tålmodig og forståelse for barnet og familiens behov</li><li>Erfaring med idrett og friluftsliv teller positiv</li></ul><br />Menn og studenter oppfordres til å søke. Noen fysiske løft må påregnes da jeg bruker rullestol. Jobben passergodt for studenter/elever innen f.eks. sykepleie, vernepleier, barnehagelærer, idrett, barne-og ungdomsarbeider osv., men personlig egnethet vil bli vektlagt. Politiattest må innhentes.<br /><br />Interessert? Send oss din CV og en tekst om deg selv og hvorfor du tror du vil være en god assistent. Du kan også ta kontakt på mail om du har spørsmål. Vi gleder oss til å bli bedre kjent med<br />deg!<br /><br />Les gjerne mer på: <a href=\"https://www.assistermeg.no/jobbe-som-assistent\" rel=\"nofollow\">https://www.assistermeg.no/jobbe-som-assistent</a><br /><br /><strong></strong><p><strong>Hva AssisterMeg tilbyr:</strong></p><ul><li>Konkurransedyktig lønn</li><li>Forsikring</li><li>Kurs og kompetanseheving</li><li>Støtte til treningsmedlemsskap</li><li>Tilgang til personalrabatter på utvalgte produkter og tjenester</li><li>Et godt arbeidsmiljø basert på grunnleggende respekt for den enkelte medarbeider </li></ul><p> </p><p>Søknadsfrist snarest (innen 15.08.23)</p><p>Vi tar inn søkere til intervju og ansetter fortløpende.</p>",
             "sourceurl": null,
             "source": "IMPORTAPI",
-            "applicationUrl": "https://karriere.assistermeg.no/jobs/2904382-er-du-fleksibel-og-onsker-en-givende-deltidsjobb/applications/new?promotion=692791-nav-no",
+            "applicationUrl": "https://karriere.assistermeg.no/jobs/2911416-blid-gutt-pa-6-ar-soker-assistent-til-hosten/applications/new?promotion=695516-nav-no",
             "applicationDue": null,
             "occupationCategories": [
                 {
@@ -831,7 +745,7 @@
                 }
             ],
             "jobtitle": null,
-            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/68800fcd-f9b1-465c-9046-0c418e31e022",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/d1bd3439-b2e1-45f9-8937-93ebd332a192",
             "employer": {
                 "name": "AssisterMeg AS",
                 "orgnr": null,
@@ -841,8 +755,98 @@
             "engagementtype": null,
             "extent": null,
             "starttime": null,
-            "positioncount": "2",
+            "positioncount": "1",
             "sector": null
+        },
+        {
+            "uuid": "9b85efe7-0c02-4bd1-a0c8-3a2d862a9354",
+            "published": "2023-06-13T08:03:15.065489Z",
+            "expires": "2023-07-30T17:59:59Z",
+            "updated": "2023-06-13T08:04:15.091282Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": null,
+                    "city": "MO I RANA",
+                    "postalCode": "8622",
+                    "county": "NORDLAND",
+                    "municipal": "RANA"
+                }
+            ],
+            "title": "Vekter / Sikkerhetskontrollør - Mo i Rana Lufthavn",
+            "description": "<strong>Bli en av oss!</strong><br />Lurer du på hva du skal gjøre fremover har vi planen klar for deg! Vi trenger flere dyktige mennesker til jobben som sikkerhetskontrollør ved Røssvoll lufthavn Mo i Rana. Vi har behov for <strong>fast deltid.</strong><br />Hvis du sitter med et ønske om å søke, men ikke har vekterutdanningen fra før er ikke det noe problem. Vi dekker nemlig nå både vekter- og sikkerhetskontrollørutdanningen for riktig kandidat. <br /> <br /><strong>Virker dette interessant? Les videre!</strong><br />Som sikkerhetskontrollør ved Røssvoll lufthavn blir du en del av et meget synlig sikkerhetsoppdrag i regionen. Vi ser etter deg som har teft for sikkerhet og service. Du må være god på å møte mennesker på en servicevennlig og respektfull måte. Du har engasjement og evner å skape trygge og hyggelige opplevelser for alle våre reisende. Vi ønsker gjerne at du har erfaring fra sikkerhets- eller serviceyrker, men annen arbeidserfaring er også interessant. Vi har over 1100 sikkerhetskontrollører i Norge, og ser etter mennesker i alle aldre og med ulik bakgrunn.  <br />På våre lufthavner jobber man turnus, både kveld, dag og helg<br /> <br /><strong>Så hvem ser vi etter?</strong><ul><li>Har tydelige og gode kommunikasjonsevner </li><li>Er serviceinnstilt og imøtekommende  </li><li>Liker å jobbe i team der man har et dynamisk arbeidsmiljø  </li><li>Er reflektert, grundig og nøyaktig  </li><li>Kjenner deg igjen i våre verdier; &#34;Pålitelighet, Handlekraft, Samarbeid og Engasjement&#34; </li></ul><br /> <br /><strong>Kvalifikasjoner </strong> <br />I henhold til lov om vaktvirksomhet er det et krav du er fylt 18 år. Det kreves også plettfri vandel. Ettersom at lufthavnen også tiltrekker seg en del utenlandske reisende er det et krav at du også gjør deg godt forstått på engelsk.<br />Det vil bli gjennomført bakgrunnssjekk og du må oppfylle kravene til luftfartstilsynet. Du må derfor dokumentere jobb/studier de 5 siste årene. Det kan være lurt og allerede samle sammen informasjon allerede nå.  se deres hjemmeside for mer informasjon: <a href=\"https://luftfartstilsynet.no/skjema/bakgrunnssjekk/bakgrunnssjekk/\" rel=\"nofollow\">https://luftfartstilsynet.no/skjema/bakgrunnssjekk/bakgrunnssjekk/</a>.  <br />  <br /><strong>Vi tilbyr  </strong><ul><li>Lønn etter tariff, med bransjens beste tjenestegrenstillegg  </li><li>Nasjonal grunnutdanning for vektere (5 uker, dagtid)  </li><li>Grunnutdanning for sikkerhetskontrollører (3 uker, dagtid)  </li><li>Hyggelig og spennende arbeidsmiljø   </li><li>Et sikkerhetskonsern i stadig vekst, med gode karriere- og utviklingsmuligheter  </li><li>Rabatter og personalgoder, som for eksempel firmahytte på Beitostølen  </li></ul><br /> <br /><strong> Arbeidsoppgaver  </strong><ul><li>Adgangskontroll, samt objekt- og områdesikring </li><li>Sikkerhetskontroll av personer, medbrakte gjenstander og bagasje  </li><li>Patruljeringstjenester og andre serviceoppgaver </li></ul><br /> <br /><strong>Hvordan søke  </strong><br />Vi gleder oss til å bli kjent med deg som jobbsøker, og håper at du søker jobb hos oss.  <br />CV og søknad sendes elektronisk via vår søkeportal ved å følge søknadslinken på denne siden. Du vil bli rutet til vår søknadsportal hvor du må klikke på «Apply» og følg så anvisningene på skjermen. Søknader sendt til kontaktepost vil ikke bli behandlet. <br /> <br />Kandidater vil bli kontaktet per e-post, så forsikre deg om at e-posten du registrerer er korrekt. Følg også med i søppelpostkasse, da e-postene kan havne i den kategorien.  <br />Søknader vil bli behandlet fortløpende og aktuelle kandidater vil bli invitert til et web-basert førstegangsintervju.  <br /> <br /><strong>Kontaktperson  </strong><br />For eventuelle spørsmål kontakt: branislav.stevanovic(alfakrøll)avarnsecurity.com<br />Søknadsfrist: Snarest                          <br /> <br /> ",
+            "sourceurl": null,
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://nokas-as.contactrh.com/jobs/14035/41660233/nb_NO",
+            "applicationDue": null,
+            "occupationCategories": [
+                {
+                    "level1": "Transport og lager",
+                    "level2": "Lufttrafikk"
+                },
+                {
+                    "level1": "Reiseliv og mat",
+                    "level2": "Reiseliv, hotell og overnatting"
+                },
+                {
+                    "level1": "Sikkerhet og beredskap",
+                    "level2": "Vakt-, sikrings- og kontrollarbeid"
+                }
+            ],
+            "jobtitle": null,
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/9b85efe7-0c02-4bd1-a0c8-3a2d862a9354",
+            "employer": {
+                "name": "Avarn Security Aviation AS",
+                "orgnr": null,
+                "description": null,
+                "homepage": "https://avarnsecurity.no"
+            },
+            "engagementtype": "Fast",
+            "extent": "Deltid",
+            "starttime": null,
+            "positioncount": "1",
+            "sector": "Offentlig"
+        },
+        {
+            "uuid": "c82f980f-f5e2-4195-90e1-612e16ab89e5",
+            "published": "2023-06-13T07:56:15.042878Z",
+            "expires": "2023-06-25T22:00:00Z",
+            "updated": "2023-06-13T07:56:15.549199Z",
+            "workLocations": [
+                {
+                    "country": "NORGE",
+                    "address": "0164 Oslo",
+                    "city": "OSLO",
+                    "postalCode": "0164",
+                    "county": "OSLO",
+                    "municipal": "OSLO"
+                }
+            ],
+            "title": "Sommerjobb på sykehus",
+            "description": "<h3>Innledning</h3>\r\n<p>Det er stort behov for helsesekretærer til sommerjobb på sykehus i Oslo.</p>\r\n<br />\r\n<p>Er du autorisert og har erfaring fra sykehus? Ta kontakt med oss.</p>\r\n<br />\r\n<h3>Arbeidsoppgaver</h3>\r\n<ul><li>Arbeid i DIPS Arena</li><li>Registrering av ankomst, diagnoser og prosedyrer</li><li>Mottak av pasienter i skranken</li><li>Yte service til kollegaer, pasienter og pårørende</li></ul>\r\n<br />\r\n<h3>Arbeidstid</h3>\r\n<p>Dagtid, kl 8:00- 15:30</p>\r\n<h3>Ønskede kvalifikasjoner</h3>\r\n<ul><li>Autorisert helsesekretær</li><li>Erfaring med DIPS Arena</li><li>Erfaring fra sykehus</li></ul>\r\n<br />\r\n<h3>Personlige egenskaper</h3>\r\n<p>Ansvarsfull, serviceinnstilt og selvstendig</p>\r\n<br />\r\n<h3>Vi tilbyr</h3>\r\n<ul><li>Spennende oppgaver</li><li>God oppfølging</li><li>Ryddige ansettelsesforhodl</li></ul>\r\n<br />\r\n<h3>Avsluttende tekst</h3>\r\n<p>Syns du dette høres som noe for deg? Ta kontakt for å høre hva vi kan tilby!</p>\r\n",
+            "sourceurl": null,
+            "source": "IMPORTAPI",
+            "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=192&id_utleie=3000816",
+            "applicationDue": "30.06.2023",
+            "occupationCategories": [
+                {
+                    "level1": "Helse og sosial",
+                    "level2": "Helse"
+                }
+            ],
+            "jobtitle": "Helsesekretær til sykehus",
+            "link": "https://arbeidsplassen.nav.no/stillinger/stilling/c82f980f-f5e2-4195-90e1-612e16ab89e5",
+            "employer": {
+                "name": "Lenas HelsePersonell AS avd. Vikarbyrå (Oslo)",
+                "orgnr": null,
+                "description": "<p>Vi har levert helsepersonell til helsesektoren i  25 år, og er det eldste spesialiserte bemanningsbyrået i Norge. Vi er størst på utleie av helsesekretærer og tannhelsesekretærer til sykehus, legekontor og tannlegekontor i hele Norge.</p>\r\n",
+                "homepage": null
+            },
+            "engagementtype": "Vikariat",
+            "extent": "Heltid",
+            "starttime": "26.06.2023",
+            "positioncount": "4",
+            "sector": "Privat"
         }
     ],
     "totalElements": 5000,
